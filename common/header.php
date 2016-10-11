@@ -10,6 +10,7 @@ if ($description = option('description')):
   <meta name="description" content="<?php
     echo $description;
 ?>" />
+<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
   <?php
 endif;
 ?>
