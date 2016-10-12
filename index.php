@@ -1,7 +1,3 @@
-<?php
-head();
-?>
-
 
 <?php
 echo head(array(
@@ -9,6 +5,7 @@ echo head(array(
     'bodyclass' => 'five-col'
 ));
 ?>
+
 <div id="primary">
 
 
