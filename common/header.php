@@ -143,11 +143,15 @@ echo search_form(array(
 		
 		<div class="large-12 columns">
 	
+<!-- some site title on every page			
+			
 	      <h1 id="site-title"><?php
 echo link_to_home_page(theme_logo());
 ?></h1>
 
-
+-->
+			
+			
 
 
       
