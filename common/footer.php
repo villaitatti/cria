@@ -48,3 +48,56 @@ echo search_form(array(
 	</div>
 </div>
 </div>
+
+<!-- Loading all the foundation js files. It doesn't work if you load them in the head -->
+  <?php
+echo js_tag('foundation/foundation');
+?>
+<?php
+echo js_tag('foundation/foundation.alert');
+?>
+  <?php
+echo js_tag('foundation/foundation.accordion');
+?>
+<?php
+echo js_tag('foundation/foundation.clearing');
+?>
+<?php
+echo js_tag('foundation/foundation.dropdown');
+?>
+<?php
+echo js_tag('foundation/foundation.equalizer');
+?>
+<?php
+echo js_tag('foundation/foundation.interchange');
+?>
+<?php
+echo js_tag('foundation/foundation.joyride');
+?>
+<?php
+echo js_tag('foundation/foundation.magellan');
+?>
+<?php
+echo js_tag('foundation/foundation.offcanvas');
+?>
+<?php
+echo js_tag('foundation/foundation.orbit');
+?>
+<?php
+echo js_tag('foundation/foundation.reveal');
+?>
+<?php
+echo js_tag('foundation/foundation.slider');
+?>
+<?php
+echo js_tag('foundation/foundation.tab');
+?>
+<?php
+echo js_tag('foundation/foundation.tooltip');
+?>
+<?php
+echo js_tag('foundation/foundation.topbar');
+?>
+<script>
+  $(document).foundation();
+</script>

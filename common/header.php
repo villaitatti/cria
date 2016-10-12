@@ -43,27 +43,8 @@ echo head_css();
 
   <!-- JavaScripts -->
   <?php
-queue_js_file('app');
+queue_js_file(array('app','vendor/jquery','vendor/custom.modernizr'));
 ?>
-  <?php
-queue_js_file('foundation/foundation');
-?>
-  <?php
-queue_js_file('foundation/foundation.orbit');
-?>
-  <?php
-queue_js_file('vendor/jquery');
-?>
-  <?php
-queue_js_file('vendor/custom.modernizr');
-?>
-
-  <?php
-queue_js_file('foundation/foundation.forms');
-?>
-
-
-
 
   <?php
 echo head_js();
