@@ -10,7 +10,6 @@ if ($description = option('description')):
   <meta name="description" content="<?php
     echo $description;
 ?>" />
-<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
   <?php
 endif;
 ?>
@@ -36,7 +35,7 @@ fire_plugin_hook('public_head', array(
   <!-- Stylesheets -->
 
   <?php
-queue_css_url('http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic');
+queue_css_url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans');
 queue_css_file('foundation');
 queue_css_file('app');
 echo head_css();
