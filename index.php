@@ -121,26 +121,9 @@ echo link_to_items_browse(__('View All Items'));
 <!-- end recent-items -->
 
 	</div>
-	<!-- Featured Exhibit -->
-	
-	<div class="row">
 
 
-    <?php
-if ((get_theme_option('Display Featured Exhibit')) && function_exists('exhibit_builder_random_featured_exhibit')):
-?>
-</div>
 
-
- <?php
-    echo exhibit_builder_display_featured_exhibit();
-?>
-  <?php
-endif;
-?>
-
-
-</div><!-- end primary -->
 
 
 <footer>

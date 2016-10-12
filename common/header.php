@@ -35,7 +35,7 @@ fire_plugin_hook('public_head', array(
   <!-- Stylesheets -->
 
   <?php
-queue_css_url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans');
+queue_css_url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:300');
 queue_css_file('foundation');
 queue_css_file('app');
 echo head_css();
@@ -118,19 +118,7 @@ echo public_nav_main();
 										</ul>
 				     
 
-			<ul class="right">
-				<li class="divider hide-for-small"></li>
-				<li><?php
-echo link_to_item_search('More Search Options');
-?></li>
-				
-		  <li><?php
-echo search_form(array(
-    'show_advanced' => false
-));
-?></li>
-		
-</ul>
+
  </section>
 		    </nav>
 
@@ -142,14 +130,7 @@ echo search_form(array(
 		
 		<div class="large-12 columns">
 	
-<!-- some site title on every page			
-			
-	      <h1 id="site-title"><?php
-echo link_to_home_page(theme_logo());
-?></h1>
 
--->
-			
 			
 
 
