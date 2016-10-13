@@ -108,6 +108,16 @@ Photos to rotate on homapage
 ----------------------------------------- */
 
 
+article {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  font-size: 36px;
+  letter-spacing: 3px;
+  color: #fff;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
 
 
 body#home .headWrapper{
@@ -138,8 +148,17 @@ body#home .headWrapper{
 
 
 
+.top-bar, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section ul li {
+background: transparent !important;
+font-size: 1.8125rem;
+line-height: 4rem;
+}
 
 
+
+.top-bar-section{
+padding: 4rem !important;
+}
 
 
 /* -----------------------------------------
@@ -272,29 +291,4 @@ ul.link-list a, #footer h4 {
 
 ul.link-list a:hover {
 	color: #f8f8f8;
-}
-/* AC: Adding the + and - sign for the accordion */
-.accordion-navigation > a:before {
-  content: "+";
-  padding-right: 5px;
-  font-size: 18px;
-  font-weight: bold;
-  color: #de171c;
-}
-
-.accordion-navigation.active > a:before {
-  content: "-"; }
-/* AC:previous and next item buttons. I added a media query so that the buttons will show in the middle of the photo on the left and on the right only in big screens, in small screens they will be below the photo */
-@media (min-width: 1366px) {
-    .previous-item {
-        left: -10%;
-    }
-    .next-item {
-        right: -10%;
-    }
-    .div-prev-next-items {
-        position:absolute;
-        top:50%;
-        width:85.375rem;
-    }
 }
