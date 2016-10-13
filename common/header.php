@@ -85,8 +85,8 @@ fire_plugin_hook('public_header');
 			
 		
 			<nav class="top-bar" data-topbar role="navigation">
-  <ul class="title-area">
-    <li class="name">
+  <ul class="title-area" style="width:100%;">
+    <li class="name" style="position:relative;left:50%;">
       <h1><a href="#"><?php
 echo link_to_home_page(theme_logo());
 ?>
