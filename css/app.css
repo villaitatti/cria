@@ -100,10 +100,19 @@ body.items h1, body.collections h1 {
 
 
 
+/* -----------------------------------------
+Photos to rotate on homapage
+08.14.00150 (Bargello)
+08.06.00055 or 57 (l’angioletto)
+07.09.00294  (composizione)
+----------------------------------------- */
+
+
+
 
 body#home .headWrapper{
   /* Location of the image */
-  background-image: url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.03.00040/full/full/0/native.jpg);
+  background-image: url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.14.00150/full/full/0/native.jpg);
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;
