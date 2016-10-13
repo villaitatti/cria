@@ -122,7 +122,6 @@ select {
 
 .row {
   margin: 0 auto;
-  max-width: 62.5rem;
   width: 100%; }
   .row:before, .row:after {
     content: " ";
@@ -2086,7 +2085,6 @@ meta.foundation-mq-topbar {
   .contain-to-grid .top-bar {
     margin: 0 auto;
     margin-bottom: 0;
-    max-width: 62.5rem; }
 
   .top-bar-section {
     transition: none 0 0;
