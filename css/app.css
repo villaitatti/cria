@@ -100,12 +100,11 @@ body.items h1, body.collections h1 {
 
 
 
-<<<<<<< HEAD
-=======
+
 /* -----------------------------------------
 Photos to rotate on homapage
 08.14.00150 (Bargello)
-08.06.00055 or 57 (l’angioletto)
+08.06.00055 or 57 (lâ€™angioletto)
 07.09.00294  (composizione)
 ----------------------------------------- */
 
@@ -120,8 +119,6 @@ article {
   text-align: center;
   transform: translate(-50%, -50%);
 }
-
->>>>>>> origin/master
 
 body#home .headWrapper{
   /* Location of the image */
@@ -294,7 +291,7 @@ ul.link-list a, #footer h4 {
 
 ul.link-list a:hover {
 	color: #f8f8f8;
-<<<<<<< HEAD
+
 }
 /* AC: Adding the + and - sign for the accordion */
 .accordion-navigation > a:before {
@@ -341,6 +338,4 @@ ul.link-list a:hover {
 .accordion-item-titles {
     text-transform: uppercase;
     margin-bottom: 0;
-=======
->>>>>>> origin/master
 }
