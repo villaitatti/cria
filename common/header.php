@@ -54,7 +54,7 @@ echo head_js();
 
 
 </head>
-
+	
 <?php
 echo body_tag(array(
     'id' => @$bodyid,
@@ -73,35 +73,13 @@ fire_plugin_hook('public_header');
 ?>
 		</header>
 		
-		        <div id="primary-nav" class="contain-to-grid sticky">
-		<nav class="top-bar">
-		 <ul class="title-area">
-		    <!-- Title Area -->
-		    <li class="name">
-		       <h1 id="site-title"><a href="#"><?php
+
+	
+	<h1 id="site-title"><a href="#"><?php
 echo link_to_home_page(theme_logo());
 ?></a></h1>
-		    </li>
-		    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-		    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-		  </ul>
 	
-				<section class="top-bar-section">
-								        <!-- Left Nav Section -->
-									<ul class="left">
-					      
-				        <?php
-echo public_nav_main();
-?>
-		
 
-						
-										</ul>
-				     
-
-
- </section>
-		    </nav>
 
 
 

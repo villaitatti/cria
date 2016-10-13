@@ -1,10 +1,18 @@
+<?php
+head();
+?>
 
 <?php
 echo head(array(
     'bodyid' => 'home',
-    'bodyclass' => 'five-col'
+    'bodyclass' => ''
 ));
 ?>
+
+
+
+
+
 
 <div id="primary">
 
