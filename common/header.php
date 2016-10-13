@@ -36,6 +36,7 @@ fire_plugin_hook('public_head', array(
 
   <?php
 queue_css_url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:300');
+
 queue_css_file('foundation');
 queue_css_file('app');
 echo head_css();
@@ -51,10 +52,8 @@ echo head_js();
 ?>
 
 
-
-
 </head>
-	
+
 <?php
 echo body_tag(array(
     'id' => @$bodyid,
@@ -66,6 +65,7 @@ fire_plugin_hook('public_body', array(
     'view' => $this
 ));
 ?>
+	
 
 <header>
 		  <?php
@@ -74,25 +74,15 @@ fire_plugin_hook('public_header');
 		</header>
 		
 
-	
+	<div class="headWrapper">
 	<h1 id="site-title"><a href="#"><?php
 echo link_to_home_page(theme_logo());
 ?></a></h1>
 	
 
-
-
-
-		  </div>
-
-	<div class="row">
-		
-		<div class="large-12 columns">
+	
+	
 	
 
-			
-
-
-      
-
-
+	<div class="row">
+		<div class="large-12 columns">
