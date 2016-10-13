@@ -35,7 +35,7 @@ fire_plugin_hook('public_head', array(
   <!-- Stylesheets -->
 
   <?php
-queue_css_url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:300');
+queue_css_url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:300,300i,700,700');
 
 queue_css_file('foundation');
 queue_css_file('app');
