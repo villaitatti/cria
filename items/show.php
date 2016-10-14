@@ -37,6 +37,18 @@
         <div>
             <h6 class="accordion-item-titles">Title</h6>
             <p><?php echo metadata('item', array('Dublin Core', 'Title')); ?></p>
+            <h6 class="accordion-item-titles">Box Number</h6>
+            <p><?php echo metadata('item', array('Item Type Metadata', 'Box Number')); ?></p>
+            <h6 class="accordion-item-titles">Folder Number</h6>
+            <p><?php echo metadata('item', array('Item Type Metadata', 'Folder Number')); ?></p>
+            <h6 class="accordion-item-titles">Image Number</h6>
+            <p><?php echo metadata('item', array('Item Type Metadata', 'Image Number')); ?></p>
+            <h6 class="accordion-item-titles">Folder Title</h6>
+            <p><?php echo metadata('item', array('Item Type Metadata', 'Folder Title')); ?></p>
+            <h6 class="accordion-item-titles">Location</h6>
+            <p><?php echo metadata('item', array('Item Type Metadata', 'Location')); ?></p>
+            <h6 class="accordion-item-titles">Physical Dimensions</h6>
+            <p><?php echo metadata('item', array('Item Type Metadata', 'Physical Dimensions')); ?></p>
         </div>
         
     </div>
