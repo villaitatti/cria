@@ -1,5 +1,5 @@
-## Omeka-foundation theme
+## Omeka CRIA Theme
 
-A very basic Omeka port of the Zurb Foundation framework (now upgraded for Omeka 2). Foundation is based around The Grid; a twelve-column, semi-liquid layout. Find out more at: http://foundation.zurb.com/docs/index.php
+A custom theme for the VIlla I Tatti online exhibition on the Committee to Rescue Italian Art.
 
-Foundation 3 and 4 no longer support IE7, if you require IE7 support then check out https://github.com/katel/omeka-foundation-v2
+A port of the Omeka Foundation theme, updated to Foundation 5. Foundation is based around The Grid; a twelve-column, semi-liquid layout. Find out more at: http://foundation.zurb.com/docs/index.php
