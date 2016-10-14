@@ -84,7 +84,20 @@ the Arno river flooded the city of Florence<br />
 
 
 
+<script>	
+	$(document).ready(function () {
+  $(window).bind('resizeEnd', function () {
+    $(".headWrapper").height($(window).height());
+  });
 
+  $(window).resize(function () {
+    if (this.resizeTO) clearTimeout(this.resizeTO);
+    this.resizeTO = setTimeout(function () {
+      $(this).trigger('resizeEnd');
+    }, 300);
+  }).trigger("resize");
+});
+			</script>
 <footer>
 <?php
 echo foot();

@@ -81,22 +81,19 @@ fire_plugin_hook('public_header');
 		
 		
 		  <!-- start main menu -->
-		<div id= mainMenu>
-			
-		
-			<nav class="top-bar" data-topbar role="navigation">
-  <ul class="title-area" style="width:100%;">
-    <li class="name" style="position:relative;left:50%;">
-      <h1><a href="#"><?php
-echo link_to_home_page(theme_logo());
-?>
-		  </a></h1>
-    </li>
-     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-  </ul>
+<div id= mainMenu>
+	<nav class="top-bar" data-topbar role="navigation">
 
-  <section class="top-bar-section">
+		
+
+	  
+	  
+  <section class="top-bar-section">	
+	  
+	  
+	  
+
+	  
     <!-- Right Nav Section -->
     <ul class="right">
       <li class="has-dropdown">
@@ -118,13 +115,26 @@ echo link_to_home_page(theme_logo());
         </ul>
       </li>
     </ul>
-
+	  
+	  
+	  
+	        <h1 class="header-logo-centered"><a href="#"><?php
+echo link_to_home_page(theme_logo());
+?>
+		  </a></h1>
+	  
   </section>
-</nav>
+
+			
+	<ul class="title-area">
+    
+     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+  </ul>			
 			
 			
-			
- </div> 
+			</nav>
+			</div> 
 	
 	
 	
