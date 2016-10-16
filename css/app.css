@@ -102,6 +102,21 @@ body.items h1, body.collections h1 {
 
 
 /* -----------------------------------------
+Homepage pre-loader
+----------------------------------------- */
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(images/loader-64x/Preloader_2.gif) center no-repeat #fff;
+}
+
+/* -----------------------------------------
 Photos to rotate on homapage
 08.14.00150 (Bargello)
 08.06.00055 or 57 (l’angioletto)
@@ -119,10 +134,30 @@ article {
   text-align: center;
   transform: translate(-50%, -50%);
 }
+#mainMenu {
+    
+    background-image: url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.23.00316bis/pct:5,5,90,40/!1400,1400/0/native.jpg);
+    
+    background-position: top center;
+  
+  /* Image doesn't repeat */
+  background-repeat: no-repeat;
+  
+  /* Makes the image fixed in the viewport so that it doesn't move when 
+     the content height is greater than the image height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based on its container's size */
+  background-size: cover;
+  
+
+    
+    height: 300px;
+}
 
 body#home .headWrapper{
   /* Location of the image */
-  background-image: url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.14.00150/full/full/0/native.jpg);
+  background-image: url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.14.00150/pct:5,5,90,90/!1400,1400/0/native.jpg);
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;

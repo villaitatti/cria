@@ -11,6 +11,9 @@ jQuery(document).ready(function($){
 	$(".add_search").addClass("tiny button dropdown");
 	$(".remove_search").addClass("tiny button secondary");
 
-	
+		$(window).load(function() {
+		// Animate loader off screen
+		$(".se-pre-con").fadeOut("slow");;
+	});
 });
 
