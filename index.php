@@ -74,11 +74,13 @@ fire_plugin_hook('public_header');
 
 		
 
-     <?php
+		
 
-include 'common/menu.php';
+	  
+	        <h1 class="header-logo-centered"><a href="#"><img width="150px" src="themes/cria/images/CRIA_logo_centered.svg" alt="CRIA">
+		  </a></h1>
+	  
 
-?>   
         
         
 	
@@ -108,26 +110,59 @@ the Arno river flooded the city of Florence<br />
 		</div>
   <!-- start header wrappers again -->
 
+            		  <!-- ************ start main ***********menu -->
 
+	<nav class="top-bar" data-topbar role="navigation">
+  
+	  
+  <section class="top-bar-section">	
+	  
+    <!-- Right Nav Section -->
+    <ul class="right">
+
+          <li><a href="exhibits/show/the-rescue">the rescue</a></li>
+
+        </ul>
+
+
+    <!-- Left Nav Section -->
+    <ul class="left">
+          <li><a href="exhibits/show/the-committee">the committee</a></li>
+    </ul>
+	  
+	  
+	  	  
+  </section>
+
+			
+	<ul class="title-area">
+    
+     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+  </ul>			
+			
+			
+			</nav>
+
+    
+                		  <!-- *********** END main menu**************** -->
 
 <div>
 	<div class="row">
 		
 		<div class="large-12 columns">
             
+
             
-            <div id="homeFilms"> 
-            
-                <iframe src="https://player.vimeo.com/video/186245220" width="100%" height="600px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/186245220">CRIA appeal</a> from <a href="https://vimeo.com/user57680095">Villa I Tatti</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-                
-                
-            </div>
+
             
             
-            
-            
-<h1>THE FLOOD</h1>
+          <div class="row">
+  <div class="small-3 columns">The flood<br />
+              CRIA<br />
+              </div>
+  <div class="small-9 columns">
+              <h1>THE FLOOD</h1>
 <p>L&rsquo;autunno del 1966 fu molto piovoso in Italia. I fiumi cominciarono ad ingrossarsi e a trascinare a valle tutto ci&ograve; che incontravano nella loro strada, e in Toscana l&rsquo;Arno, il suo principale fiume, inizi&ograve; a salire di livello nei primi giorni di novembre.</p>
 <p>Cos&igrave; nella notte del quattro novembre, alla vigilia della festa dell&rsquo;Unit&agrave; Nazionale, l&rsquo;Arno ruppe gli argini, e inond&ograve; i paesi e le citt&agrave; sparsi sul suo cammino. Una grandissima quantit&agrave; d&rsquo;acqua, di melma e di detriti si rivers&ograve; nelle campagne a nord e a sud di Firenze isolando la citt&agrave;. Poi il fiume inizi&ograve; a rompere gli argini anche in citt&agrave;. Il centro storico e i quartieri limitrofi al fiume in poco tempo furono ricoperti d&rsquo;acqua. L&rsquo;alluvione travolse tutto quello che trov&ograve; sulla sua strada; l&rsquo;esplosione dei serbatoi di nafta per riscaldamento produsse una macchia, oleosa che, galleggiando sulla corrente insozz&ograve; i muri delle case e dei monumenti della citt&agrave;. L&rsquo;ondata di piena ebbe il suo picco d&rsquo;altezza nelle ore susseguenti all&rsquo;alba del quattro novembre, e dur&ograve; per tutto il giorno.</p>
 <p>Lentamente a partire dalla sera il fiume rientr&ograve; nei propri argini<em>. Quella che era passata era stata sicuramente la pi&ugrave; grande alluvione mai registrata a Firenze</em>. L&rsquo;evento ebbe un impastto psicologico devastante, tanto che, molte delle persone che nei giorni seguenti furono intervistate dalle televisioni di tutto il mondo, dichiararono che per la citt&agrave; si era trattato di una catastrofe ben pi&ugrave; terribile della seconda guerra mondiale, ormai terminata da oltre venti anni.</p>
@@ -141,7 +176,20 @@ the Arno river flooded the city of Florence<br />
 <p>Fu quello il primigenio gruppo del Comitato per il Recupero dell&rsquo;Arte Italiana (<em>Committe to Rescue Italian Art)</em>. A quei tre primi membri si unirono immediatamente storici dell&rsquo;arte, studiosi di letteratura, di storia, frequentatori assidui e appassionati di quella cultura i cui documenti erano stati danneggiati dalla piena dell&rsquo;Arno. Fu subito chiaro che oltre alle opere d&rsquo;arte era necessario occuparsi del prezioso patrimonio di archivi e biblioteche.</p>
 <p>Il 9 novembre 1966, Millard Meiss annuncia in un telegramma che il comitato &egrave; formato. Pochi giorni dopo aggiunge che il Comitato gode di membri e di sostenitori in tutti gli stati d&rsquo;America.</p>
 <p>&nbsp;</p>
-<p>The COMMITTEE</p>
+              
+              </div>
+</div>  
+            
+            <div id="homeFilms"> 
+            
+                <iframe src="https://player.vimeo.com/video/186245220" width="100%" height="600px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/186245220">CRIA appeal</a> from <a href="https://vimeo.com/user57680095">Villa I Tatti</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+                
+                
+            </div>
+            
+            
+<h2>The COMMITTEE</h2>
 <p>&nbsp;</p>
 <p>Meiss, insigne storico dell&rsquo;arte e insegnante presso l&rsquo;Institute of Advanced Studies di Princeton, viene nominato Chairman of the Advisory Committee&nbsp; del CRIA; mentre la carica di Presidente onorario del Comitato &egrave; ricoperta da Jacqueline Kennedy. Nel National Executive Committee&nbsp; &nbsp;del comitato compaiono per la storia dell&rsquo;arte i nomi di Sydney J. Freedberg, vice chairman da&nbsp; &nbsp;Harvard University, &nbsp;&nbsp;Frederic Hartt (University of Pennsylvania), Craig H. Smith (Institute of Fine Arts, New York), John Walker (direttore della National Gallery di Washington). Fra gli altri studiosi, nell&rsquo;advisory committee spiccano i nomi di Rudolf Wittkower (Columbia University), Rensselar Lee (Princeton University), e &nbsp;poi Paul Oskar Kristeller (Columbia University), l&rsquo;autore dell&rsquo;<em>Iter Italicum</em>, che grazie alla sua intima conoscenza delle ricchezze del patrimonio documentario italiano sar&agrave; fra i massimi consulenti nella scelta degli interventi di restauro da finanziare.</p>
 <p>&nbsp;</p>

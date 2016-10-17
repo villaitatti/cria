@@ -191,10 +191,10 @@ line-height: 4rem;
 
 
 
-.top-bar-section{
-padding: 3rem !important;
-}
 
+.top-bar-section {
+    padding:2rem !important;
+}
 
 
 
@@ -208,7 +208,15 @@ left:50%;
   transform: translate(-50%, 0);
 }
 
+body#home .top-bar-section ul li > a {
+    
+    color:black;
+}
 
+body#home .top-bar-section {
+    background-color:darkgray;
+    height: 8rem;
+}
 
 /* -----------------------------------------
 Forms

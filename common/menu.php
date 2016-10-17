@@ -16,13 +16,7 @@
 
     <!-- Left Nav Section -->
     <ul class="left">
-      <li class="has-dropdown">
-        <a href="#">the committee</a>
-        <ul class="dropdown">
-          <li><a href="#">First link in dropdown</a></li>
-          <li><a href="#">Second link in dropdown</a></li>
-        </ul>
-      </li>
+          <li><a href="exhibits/show/the-committee">the committee</a></li>
     </ul>
 	  
 	  
