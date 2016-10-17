@@ -3721,11 +3721,11 @@ td {
 
 /* Default Link Styles */
 a {
-  color: #008CBA;
+  color: #de171c;
   line-height: inherit;
   text-decoration: none; }
   a:hover, a:focus {
-    color: #0078a0; }
+    color: #940016; }
   a img {
     border: none; }
 
