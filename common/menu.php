@@ -8,14 +8,11 @@
 	  
     <!-- Right Nav Section -->
     <ul class="right">
-      <li class="has-dropdown">
-        <a href="#">the rescue</a>
-        <ul class="dropdown">
-          <li><a href="#">First link in dropdown</a></li>
-          <li><a href="#">Second link in dropdown</a></li>
+
+          <li><a href="exhibits/show/the-rescue">the rescue</a></li>
+
         </ul>
-      </li>
-    </ul>
+
 
     <!-- Left Nav Section -->
     <ul class="left">

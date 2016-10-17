@@ -95,6 +95,8 @@ the Arno river flooded the city of Florence<br />
 	<br />over 900 photographs<br />
 	and documents tell their story, <br />
 	the story of <b>CRIA</b> and <b>I Tatti</b>
+    <p><br /><br /><br /></p>
+    <h1> <a style="color:white;" href="#homeFilms">the story<br /><b>↓</b></a></h1>
 </article>
 
 
@@ -112,6 +114,19 @@ the Arno river flooded the city of Florence<br />
 	<div class="row">
 		
 		<div class="large-12 columns">
+            
+            
+            <div id="homeFilms"> 
+            
+                <iframe src="https://player.vimeo.com/video/186245220" width="100%" height="600px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/186245220">CRIA appeal</a> from <a href="https://vimeo.com/user57680095">Villa I Tatti</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+                
+                
+            </div>
+            
+            
+            
+            
 <h1>THE FLOOD</h1>
 <p>L&rsquo;autunno del 1966 fu molto piovoso in Italia. I fiumi cominciarono ad ingrossarsi e a trascinare a valle tutto ci&ograve; che incontravano nella loro strada, e in Toscana l&rsquo;Arno, il suo principale fiume, inizi&ograve; a salire di livello nei primi giorni di novembre.</p>
 <p>Cos&igrave; nella notte del quattro novembre, alla vigilia della festa dell&rsquo;Unit&agrave; Nazionale, l&rsquo;Arno ruppe gli argini, e inond&ograve; i paesi e le citt&agrave; sparsi sul suo cammino. Una grandissima quantit&agrave; d&rsquo;acqua, di melma e di detriti si rivers&ograve; nelle campagne a nord e a sud di Firenze isolando la citt&agrave;. Poi il fiume inizi&ograve; a rompere gli argini anche in citt&agrave;. Il centro storico e i quartieri limitrofi al fiume in poco tempo furono ricoperti d&rsquo;acqua. L&rsquo;alluvione travolse tutto quello che trov&ograve; sulla sua strada; l&rsquo;esplosione dei serbatoi di nafta per riscaldamento produsse una macchia, oleosa che, galleggiando sulla corrente insozz&ograve; i muri delle case e dei monumenti della citt&agrave;. L&rsquo;ondata di piena ebbe il suo picco d&rsquo;altezza nelle ore susseguenti all&rsquo;alba del quattro novembre, e dur&ograve; per tutto il giorno.</p>
