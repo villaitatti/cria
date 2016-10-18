@@ -28,13 +28,7 @@ echo link_to_home_page(theme_logo());
 	  
   </section>
 
-			
-	<ul class="title-area">
-    
-     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-  </ul>			
-			
+	
 			
 			</nav>
 			</div> 
