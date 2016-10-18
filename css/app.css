@@ -409,3 +409,21 @@ ul.link-list a:hover {
     text-transform: uppercase;
     margin-bottom: 0;
 }
+
+/* Exhibit Summari Page */
+.exhibit-row-container {
+    max-width: 85.375rem;
+    width: 100%;
+}
+.exhibit-single-page-container {
+    float: left;
+    padding-left: 0;
+}
+.exhibit-bigger-image-div {
+    float:left;
+    margin-right:4px;
+}
+.exhibit-single-image-4-pics-container {
+    float: left;
+    padding-left: 0;
+}
