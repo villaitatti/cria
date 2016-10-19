@@ -151,8 +151,6 @@ the Arno river flooded the city of Florence<br />
 			
 			</nav>
 
-    
-                		  <!-- *********** END main menu**************** -->
 	<div class="row">
 		
 		<div class="large-12 columns">
@@ -181,17 +179,17 @@ the Arno river flooded the city of Florence<br />
 <p>Fu quello il primigenio gruppo del Comitato per il Recupero dell&rsquo;Arte Italiana (<em>Committe to Rescue Italian Art)</em>. A quei tre primi membri si unirono immediatamente storici dell&rsquo;arte, studiosi di letteratura, di storia, frequentatori assidui e appassionati di quella cultura i cui documenti erano stati danneggiati dalla piena dell&rsquo;Arno. Fu subito chiaro che oltre alle opere d&rsquo;arte era necessario occuparsi del prezioso patrimonio di archivi e biblioteche.</p>
 <p>Il 9 novembre 1966, Millard Meiss annuncia in un telegramma che il comitato &egrave; formato. Pochi giorni dopo aggiunge che il Comitato gode di membri e di sostenitori in tutti gli stati d&rsquo;America.</p>
 <p>&nbsp;</p>
-              
-              </div>
-</div>  
+
+      
+                  <div class="video-container"> 
             
-            <div id="homeFilms"> 
-            
-                <iframe src="https://player.vimeo.com/video/186245220" width="100%" height="600px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/186245220">CRIA appeal</a> from <a href="https://vimeo.com/user57680095">Villa I Tatti</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-                
-                
+                <iframe src="https://player.vimeo.com/video/186245220" width="" height="" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>                
             </div>
+      
+      
+
+            
+
             
             
 <h2>The COMMITTEE</h2>
@@ -204,7 +202,11 @@ the Arno river flooded the city of Florence<br />
 <p>Negli Stati Uniti venivano raccolti i fondi, amministrati da un tesoriere, Curtis Brooks.</p>
 <p>Un ufficio, con a capo Bates Lowry venne aperto prima a Providence, e poi a New York.</p>
 <p>&nbsp;</p>
-<h2>ALLOCATIONS</h2>
+                        <div class="video-container"> 
+                      <iframe src="https://player.vimeo.com/video/187955193" width="" height="" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>                
+            </div><br />
+
+      <h2>ALLOCATIONS</h2>
 <p>L&rsquo; Advisory Committee decideva sull&rsquo;organizzazione degli aiuti e sulla scelta delle opere di cui finanziare il restauro. A Firenze il CRIA aveva due &ldquo;headquarters&rdquo;: un ufficio organizzativo e contabile in citt&agrave;, che fu ospitato fino al 1971 in uno dei locali al piano terreno di Palazzo Pitti, aperto sul cortile interno; e Villa I Tatti, allora diretta da Myron Gilmore, membro del CRIA con le funzioni di rappresentante per l&rsquo;Italia, e dove Millard Meiss era presenza quasi costante (e per un periodo direttore <em>pro tempore</em>).</p>
 <p>Fu presa la decisione che ogni anno dovesse essere nominato un rappresentante del CRIA per la supervisione dei restauri a Firenze, ma anche a Venezia e nel Veneto, luoghi altrettanto danneggiati negli stessi giorni dalle piogge e dall&rsquo;acqua alta. L&rsquo;Ufficio di Palazzo Pitti venne affidato ad una segretaria, Judith Munat, con il compito di organizzare l&rsquo;attivit&agrave; e di pagare le fatture presentate da restauratori e maestranze diverse coinvolte nei lavori di ripristino.</p>
 <p>Accanto alla segretaria vi era sempre il rappresentante ad incarico annuale. In questa posizione si alternarono, nel tempo, Juergen Schulz, Curtis Shell, Maurice Cope, Joseph Polzer, e Fred Licht.</p>
@@ -227,7 +229,8 @@ the Arno river flooded the city of Florence<br />
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+              </div>
+</div>  
 
 <script>	
 	$(document).ready(function () {
