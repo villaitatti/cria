@@ -445,3 +445,31 @@ ul.link-list a:hover {
     float: left;
     padding-left: 0;
 }
+
+/* Tag */
+a[rel=tag] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  border-radius: 0;
+  border-style: solid;
+  border-width: 0;
+  cursor: pointer;
+  /*font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;*/
+  font-weight: bold;
+  line-height: normal;
+  margin: 0 0 1.25rem;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  padding: 0.4rem 2rem 0.4rem 2rem;
+  font-size: 1rem;
+  background-color: #e6e6e3; /*old #008CBA */
+  /*border-color: #007095;*/
+  /*border-bottom: 1px solid #1e1e1e;*/
+  color: #1e1e1e;
+  transition: background-color 300ms ease-out;
+}
+
+ a[rel=tag]:hover, a[rel=tag]:focus {
+    color: #de171c; }

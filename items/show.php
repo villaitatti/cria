@@ -28,6 +28,15 @@
         <div class="back-item-button-div">
         <a onClick="history.go(-1);return true;" class="back-item-button">X</a>
         </div>
+        <br/>
+        <br/>
+        <br/>
+        <?php if (metadata('item', 'has tags')): ?>
+    <div id="item-tags" class="element">
+        <h2><?php //echo __('Tags'); ?></h2>
+        <div class="element-text"><?php echo tag_string('item'); ?></div>
+    </div>
+    <?php endif;?>
     </div>    
 </div>
 <div style="clear:both"></div>
