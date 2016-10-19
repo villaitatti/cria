@@ -2,7 +2,13 @@
 <div style="margin-top:50px;">
     <!-- DIV with picture -->
     <div style="float:left;position:relative;">
-        <?php echo get_specific_plugin_hook_output('Iiif', 'public_items_show', array('view' => $this, 'item' => $item)); ?>
+
+              <?php fire_plugin_hook('public_items_show', array('view' => $this, 'item' => $item)); ?>
+ 
+        
+        <?php echo get_specific_plugin_hook_output('iiif', 'public_items_show', array('view' => $this, 'item' => $item)); ?>
+        
+        
         <!-- PREVIOUS AND NEXT ITEM -->
         <div class="div-prev-next-items">
             <ul class="item-pagination navigation">
