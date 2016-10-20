@@ -20,7 +20,7 @@ echo head(array('title'=>$pageTitle,'bodyclass' => 'items browse'));
 $sortLinks[__('Title')] = 'Dublin Core,Title';
 $sortLinks[__('Date Added')] = 'added';
 ?>
-<div id="sort-links" style="margin-top:4rem;">
+<div id="sort-links" style="margin-top:3.5rem;">
     <span class="sort-label"><?php echo __('Sort by: '); ?></span><?php echo browse_sort_links($sortLinks); ?>
 </div>
 
@@ -46,7 +46,9 @@ $sortLinks[__('Date Added')] = 'added';
 <div>
 <?php echo pagination_links(); ?>
 </div>
+<?php if ($total_results > 12): ?>
 <div style="margin:2rem;">> </div>
+<?php endif; ?>
 <?php fire_plugin_hook('public_items_browse', array('items'=>$items, 'view' => $this)); ?>
 <br/>
 <br/>

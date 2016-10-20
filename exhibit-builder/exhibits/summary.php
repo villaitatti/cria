@@ -1,5 +1,5 @@
 <?php echo head(array('title' => metadata('exhibit', 'title'), 'bodyclass'=>'exhibits summary')); ?>
-
+<?php echo simple_pages_display_breadcrumbs(); ?>
 <?php echo exhibit_builder_page_nav(); ?>
 
 <div id="primary">
@@ -21,6 +21,7 @@
 //echo $_SERVER['REQUEST_URI'];
 if (strpos($_SERVER['REQUEST_URI'],'exhibits/show/the-rescue') == true) {
 ?>
+
 <div>
 <br/>
 <h1><b>A city wounded</b></h1>
@@ -81,16 +82,16 @@ if (strpos($_SERVER['REQUEST_URI'],'exhibits/show/the-rescue') == true) {
 <div><h1><b>CRIA's projects</b></h1></div>
 <div class="exhibit-row-container">
  <div class="exhibit-single-image-4-pics-container large-3 columns">
-     <a href="the-rescue/monuments---museums"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.11.00123/pct:0,00,70,95/319,319/0/native.jpg"></a>
-     <h2><b><a href="the-rescue/monuments---museums">Monuments &amp; Museums</a></b></h2>
-     </div>
+     <a href="the-rescue/wood---sculpture"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.14.00160/pct:20,22,70,62/319,319/0/native.jpg"></a>
+     <h2><b><a href="the-rescue/wood-sculpture">Wood &amp; Sculpture</a></b></h2>
+</div>
 <div class="exhibit-single-image-4-pics-container large-3 columns">
     <a href="the-rescue/paintings"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.13.00372/pct:0,00,70,95/319,319/0/native.jpg"></a>
-     <h2><b><a href="the-rescue/paintings">Painting</a></b></h2>
+     <h2><b><a href="the-rescue/painting">Painting</a></b></h2>
 </div>
  <div class="exhibit-single-image-4-pics-container large-3 columns">
-     <a href="the-rescue/wood---sculpture"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.14.00160/pct:20,22,70,62/319,319/0/native.jpg"></a>
-     <h2><b><a href="the-rescue/wood---sculpture">Wood &amp; Sculpture</a></b></h2>
+     <a href="the-rescue/monuments---museums"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.11.00123/pct:0,00,70,95/319,319/0/native.jpg"></a>
+     <h2><b><a href="the-rescue/monuments---museums">Monuments &amp; Museums</a></b></h2>
 </div>
  <div class="exhibit-single-image-4-pics-container large-3 columns">
      <a href="the-rescue/paper"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.18.00187/pct:15,5,75,90/319,319/0/native.jpg"></a>
@@ -117,36 +118,52 @@ if (strpos($_SERVER['REQUEST_URI'],'exhibits/show/the-committee') == true) {
 <br/>
 <br/>
 <div class="exhibit-row-container">
-<div class="exhibit-single-page-container large-6 columns">
+<div class="exhibit-single-page-container small-2 large-4 columns">
      <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-rescue/destruction"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.12.00348/pct:3,2,90,83/476,350/0/native.jpg"></a></div>
+     <div class="exhibit-bigger-image-div"><a href="the-committee/call-to-action"><img src="themes/cria/images/tedkennedy-snapshot.png"></a></div>
      <!-- Two smaller images -->
      <div style="float:left;">
         <div style="margin-bottom: 4px;">
-     <a href="the-rescue/destruction"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.11.00331/pct:0,20,100,80/173,173/0/native.jpg"></a>
+     <a href="the-committee/call-to-action"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!telegram-378/pct:10,3,82,93/138,138/0/native.jpg"></a>
         </div>
         <div> 
-     <a href="the-rescue/destruction"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.11.00341/pct:0,0,100,100/173,173/0/native.jpg"></a>
+     <a href="the-committee/call-to-action"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!telegram-391/pct:10,3,82,93/138,138/0/native.jpg"></a>
         </div>
      </div>
      <div style="clear:both;"></div>
-     <h2><b><a href="the-rescue/destruction">Call to Action</a></b></h2>
+     <h2><b><a href="the-committee/call-to-action">Call to Action</a></b></h2>
  </div>
 <!-- Single page container Page: People -->
- <div class="exhibit-single-page-container large-6 columns">
-     <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-rescue/people"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.09.00293/pct:13,35,60,50/476,350/0/native.jpg"></a></div>
+ <div class="exhibit-single-page-container small-2 large-4 columns">
+<!-- Bigger image -->
+     <div class="exhibit-bigger-image-div"><a href="the-committee/cast-of-characters"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:3,10,64,78/280,280/0/native.jpg"></a></div>
      <!-- Two smaller images -->
      <div style="float:left;">
         <div style="margin-bottom: 4px;">
-     <a href="the-rescue/people"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!04.08.00325/pct:0,12,100,75/!173,173/0/native.jpg"></a>
+     <a href="the-committee/cast-of-characters"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.19.00469/pct:25,10,64,84/138,138/0/native.jpg"></a>
         </div>
         <div> 
-     <a href="the-rescue/people"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!04.08.00329/pct:10,2,80,95/173,173/0/native.jpg"></a>
+     <a href="the-committee/cast-of-characters"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.18.00461/pct:4,10,93,66/138,138/0/native.jpg"></a>
         </div>
      </div>
      <div style="clear:both;"></div>
-     <h2><b><a href="the-rescue/people">Cast of Characters</a></b></h2>
+     <h2><b><a href="the-committee/cast-of-characters">Cast of Characters</a></b></h2>
+ </div>
+    
+ <div class="exhibit-single-page-container small-2 large-4 columns">
+<!-- Bigger image -->
+     <div class="exhibit-bigger-image-div"><a href="the-committee/cria-in-numbers"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.12.00348/pct:3,2,90,83/280,280/0/native.jpg"></a></div>
+     <!-- Two smaller images -->
+     <div style="float:left;">
+        <div style="margin-bottom: 4px;">
+     <a href="the-committee/cria-in-numbers"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.11.00331/pct:0,20,100,80/138,138/0/native.jpg"></a>
+        </div>
+        <div> 
+     <a href="the-committee/cria-in-numbers"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.11.00341/pct:0,0,100,100/138,138/0/native.jpg"></a>
+        </div>
+     </div>
+     <div style="clear:both;"></div>
+     <h2><b><a href="the-committee/cria-in-numbers">CRIA in Numbers</a></b></h2>
  </div>
  <br style="clear: left;" />
 </div>
@@ -156,25 +173,27 @@ if (strpos($_SERVER['REQUEST_URI'],'exhibits/show/the-committee') == true) {
  <!-- First row container -->
 <div class="exhibit-row-container">
     <!-- Single page container Page: Destruction -->
- <div class="exhibit-single-page-container small-2 large-4 columns">
-     <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-rescue/destruction"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.12.00348/pct:3,2,90,83/430,280/0/native.jpg"></a></div>
-     <div style="clear:both;"></div>
-     <h2><b><a href="the-rescue/destruction">CRIA in Numbers</a></b></h2>
- </div>
+
 <!-- Single page container Page: People -->
- <div class="exhibit-single-page-container small-4 large-4 columns">
+ <div class="exhibit-single-page-container large-6 columns">
      <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-rescue/people"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.09.00293/pct:13,35,60,50/430,280/0/native.jpg"></a></div>
+     <div class="exhibit-bigger-image-div"><a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.15.00401/pct:7,5,62,85/350,350/0/native.jpg"></a></div>
+     <div style="float:left;padding-left:1rem;width:18.44rem;">
+     <h2><b><a href="the-committee/role-of-i-tatti">Role of I Tatti</a></b></h2>
+     <p>I Tatti, because of its location on a hill, suffered no damage and hosted the collection of glass plates belonging to the  Gabinetto Fotografico degli Uffizi.</p>
+     <p>In a series of photographs held by the Berenson Library we can see the glass plates housed in the garden and in the Limonaia.</p>
+     </div>
      <div style="clear:both;"></div>
-     <h2><b><a href="the-rescue/people">Role of I Tatti</a></b></h2>
  </div>
 <!-- Single page container Page: Cultural Heritage -->
- <div class="exhibit-single-page-container small-6 large-4 columns" style="margin-right:0;">
+ <div class="exhibit-single-page-container large-6 columns" style="margin-right:0;">
      <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div" style="margin-right:0;"><a href="the-rescue/cultural-heritage"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!09.26.00322/pct:0,50,60,50/430,280/0/native.jpg"></a></div>
+     <div class="exhibit-bigger-image-div" style="margin-right:0;"><a href="the-rescue/cultural-heritage"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!09.26.00322/pct:0,50,60,50/350,350/0/native.jpg"></a></div>
+        <div style="float:left;padding-left:1rem;">
+     <h2><b><a href="the-rescue/people">The Archive</a></b></h2>
+     <p>text text text</p>
+     </div>
      <div style="clear:both;"></div>
-     <h2><b><a href="the-rescue/cultural-heritage">The Archive</a></b></h2>
  </div>
  <br style="clear: left;" />
 </div>
