@@ -100,15 +100,17 @@ fire_plugin_hook('public_header');
 		<div class="large-12 columns">
 
 <article>
-  on november 4, 1966<br />
-the Arno river flooded the city of Florence<br />
-
-	<br />a group of intellectuals took action<br />
-	
-	<br />over 900 photographs<br />
-	and documents tell their story, <br />
-	the story of <b>CRIA</b> and <b>I Tatti</b>
-    <p><br /><br /><br /></p>
+  “The flood that swept across Italy cut a path
+of destruction through our own cultural heritage.
+CRIA - the Committee to Rescue Italian
+Art - arose spontaneously among a group of
+art historians, curators, and conservators
+who share a deep concern for the art and
+culture of our civilization. Within a matter of
+days this personal commitment was transformed
+into a nationwide volunteer organization
+sending professional help and materials
+to Italy.”
     <h1> <a style="color:white;" href="#pageStart">the story<br /><b>↓</b></a></h1>
 </article>
 
