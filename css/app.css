@@ -63,13 +63,13 @@ color: #2ba6cb;
 	#sort-links-list li.sorting a { font-weight: bold; background: #2ba6cb; color: #fff; padding: 3px 9px; cursor: default; }
 	
 .sort-label {
-	display: inline;
-	    float: left;
-	    font-size: 0.875em;
-	    font-weight: normal;
-	    margin-bottom: 0.625em;
-	    margin-left: 0.5625em;
-	margin-top: 0.7em;
+    display: inline;
+    float: left;
+    font-size: 0.875em;
+    font-weight: normal;
+    margin-bottom: 0.625em;
+    margin-left: 0.5625em;
+	padding-top: 0.25rem;
 	
 }
 
