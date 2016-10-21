@@ -39,13 +39,13 @@ queue_css_url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:300,
 
 queue_css_file('foundation');
 queue_css_file('app');
+queue_css_file('zoom');
 echo head_css();
 ?>
 
   <!-- JavaScripts -->
-  <?php queue_js_file(array('app', 'zoom', 'openseadragon.min', 'vendor/jquery','vendor/custom.modernizr')); ?>
-    <?php queue_js_file('globals'); ?>
-    
+  <?php queue_js_file(array('app','vendor/jquery','vendor/custom.modernizr')); ?>
+
   <?php
 echo head_js();
 ?>
