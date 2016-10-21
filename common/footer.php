@@ -103,6 +103,7 @@ echo js_tag('foundation/foundation.tooltip');
 <?php
 echo js_tag('foundation/foundation.topbar');
 ?>
+  <?php queue_js_file(array('zoom')); ?>
 <script>
   $(document).foundation();
 </script>
