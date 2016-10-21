@@ -37,7 +37,7 @@
                     </div>
                 </div>			
             </div>
-            <div class="footer-menu large-3 columns" style="border-right:1px solid #1e1e1e;">
+            <div class="footer-menu large-3 columns">
             <?php // echo public_nav_main(); ?>			
                 <div>
                     <h6>CREDITS</h6>
