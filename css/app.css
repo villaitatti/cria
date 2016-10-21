@@ -259,7 +259,7 @@ border: none;
 
 #search-form input{
 overflow: hidden; 
-width:70%;
+width:100%;
 display: inline-block;
 }
 
@@ -279,7 +279,6 @@ margin: 0 auto;
 
 #search-form {
 margin: 0;
-background-color: #111;
 }
 
 
@@ -363,12 +362,16 @@ Footer
 ----------------------------------------- */
 
 #footer {
-	border-top: 1px solid #dddddd;
-	background: #1399bd;
+	background: #f0f0f0;
 	width: 100%;
-	color: white;
 }
 
+.footer-menu {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    height: 12.5rem;
+    border-left:1px solid #1e1e1e;
+}
 
 ul.link-list {
 	display: inline-block;
