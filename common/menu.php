@@ -6,32 +6,19 @@
 	  
   <section class="top-bar-section">	
 	  
-    <!-- Right Nav Section -->
-    <ul class="right">
-
-          <li><a href="/exhibits/show/the-rescue">the rescue</a></li>
-
-        </ul>
-
-
-    <!-- Left Nav Section -->
-    <ul class="left">
-          <li><a href="/exhibits/show/the-committee">the committee</a></li>
-    </ul>
-	  
-	  
-	  
 	        <h1 class="header-logo-centered"><a href="#"><?php
 echo link_to_home_page(theme_logo());
 ?>
 		  </a></h1>
 	  
   </section>
-
-	
-			
-			</nav>
-			</div> 
+</nav>
+    <div style="margin-top: 14rem;position:absolute;left:38%">
+    <a style="color:#fff;margin-right:2rem;font-size:1.8rem;" href="/exhibits/show/the-committee">The Committee &darr;</a>    
+    <a style="color:#fff;margin-right:2rem;font-size:1.8rem;" href="/exhibits/show/the-rescue">The Rescue &darr;</a>
+    <a style="color:#fff;margin-right:2rem;font-size:1.8rem;" href="/exhibits/show/the-committee">The Story &darr;</a>
+    </div>
+</div> 
   <!-- end main menu -->
 
 <!-- Script for changing the Banner images -->

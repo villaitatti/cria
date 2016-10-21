@@ -23,7 +23,7 @@
                     <?php echo search_form(array('show_advanced' => false));?>
                 </div>			
             </div>
-            <div class="footer-menu large-3 columns">
+            <div class="footer-menu large-2 columns">
             <?php // echo public_nav_main(); ?>			
                 <div class="">
                     <h6>PAGES </h6>
@@ -37,17 +37,21 @@
                     </div>
                 </div>			
             </div>
-            <div class="footer-menu large-3 columns">
+            <div class="footer-menu large-4 columns">
             <?php // echo public_nav_main(); ?>			
                 <div>
-                    <h6>CREDITS</h6>
-                    <div style="font-size:0.8rem;">©&nbsp;2016 The President and Fellows of Harvard College</div>
+                    <h6>REFERENCES</h6>
+                    <p style="font-size:0.8rem; margin-bottom: 0.5rem;">Unless otherwise indicated, all photographs and documents cited or displayed in this exhibit are from the following manuscript collections:</p><p style="font-size:0.8rem; margin-bottom: 0.5rem;"> 
+                    Committee to Rescue Italian Art, Papers: Palazzo Pitti Office. Biblioteca Berenson, Villa I Tatti - The Harvard University Center for Italian Renaissance Studies.  (Abbreviated as CRIA PITTI.)</p>
+<p style="font-size:0.8rem; margin-bottom: 0.5rem;">Committee to Rescue Italian Art, Papers: Villa I Tatti. Biblioteca Berenson, Villa I Tatti - The Harvard University Center for Italian Renaissance Studies.  (Abbreviated as CRIA VIT.)
+</p>
                 </div>			
             </div>
             <div class="footer-menu large-3 columns" style="border-right:1px solid #1e1e1e;">
             <?php // echo public_nav_main(); ?>			
                 <div>
                     <h6>CREDITS</h6>
+                    <img style="margin-top:2rem;" src="themes/cria/images/logo-itatti.png" alt="Villa I Tatti">
                     <div style="font-size:0.8rem;">©&nbsp;2016 The President and Fellows of Harvard College</div>
                 </div>			
             </div>            

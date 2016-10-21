@@ -203,7 +203,7 @@ if (strpos($_SERVER['REQUEST_URI'],'exhibits/show/the-committee') == true) {
         </div>
      </div>
      <div style="clear:both;"></div>
-     <h2><b><a href="the-committee/the-archive">Role of I Tatti</a></b></h2>
+     <h2><b><a href="the-committee/the-archive">The Archive</a></b></h2>
  </div>   
  <div class="large-2 columns">&nbsp;</div>
  <br style="clear: left;" />
