@@ -43,8 +43,9 @@ echo head_css();
 ?>
 
   <!-- JavaScripts -->
-  <?php queue_js_file(array('app','vendor/jquery','vendor/custom.modernizr')); ?>
-
+  <?php queue_js_file(array('app', 'zoom', 'openseadragon.min', 'vendor/jquery','vendor/custom.modernizr')); ?>
+    <?php queue_js_file('globals'); ?>
+    
   <?php
 echo head_js();
 ?>

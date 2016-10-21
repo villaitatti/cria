@@ -86,18 +86,6 @@ fire_plugin_hook('public_header');
 		
 
 		
-
-	  
-
-	  
-
-        
-        
-	
-		  <!-- open up these divs to center the content from all pages, and set max width -->
-	<div class="row">
-		<div class="large-12 columns">
-
 <div id="home-text">
     	        <a href="#"><img width="100%" src="themes/cria/images/logo.svg" alt="CRIA">
 		  </a>
@@ -123,6 +111,18 @@ sending professional help and materials
     </div>
     
 </div>
+	  
+
+	  
+
+        
+        
+	
+		  <!-- open up these divs to center the content from all pages, and set max width -->
+	<div class="row">
+		<div class="large-12 columns">
+
+
 
 
 
