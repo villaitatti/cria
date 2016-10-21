@@ -172,10 +172,8 @@ width: 35rem;
   
   /* This is what makes the background image rescale based on its container's size */
   background-size: cover;
-  
-
-    
-    height: 300px;
+    width: 100%;
+    height: 25rem;
 }
 
 body#home .headWrapper{
