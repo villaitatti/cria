@@ -83,7 +83,7 @@ if (strpos($_SERVER['REQUEST_URI'],'exhibits/show/the-rescue') == true) {
 <div class="exhibit-row-container">
  <div class="exhibit-single-image-4-pics-container large-3 columns">
      <a href="the-rescue/wood---sculpture"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.14.00160/pct:20,22,70,62/319,319/0/native.jpg"></a>
-     <h2><b><a href="the-rescue/wood-sculpture">Wood &amp; Sculpture</a></b></h2>
+     <h2><b><a href="the-rescue/wood---sculpture">Wood &amp; Sculpture</a></b></h2>
 </div>
 <div class="exhibit-single-image-4-pics-container large-3 columns">
     <a href="the-rescue/paintings"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.13.00372/pct:0,00,70,95/319,319/0/native.jpg"></a>
@@ -188,9 +188,9 @@ if (strpos($_SERVER['REQUEST_URI'],'exhibits/show/the-committee') == true) {
 <!-- Single page container Page: Cultural Heritage -->
  <div class="exhibit-single-page-container large-6 columns" style="margin-right:0;">
      <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div" style="margin-right:0;"><a href="the-rescue/cultural-heritage"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!09.26.00322/pct:0,50,60,50/350,350/0/native.jpg"></a></div>
+     <div class="exhibit-bigger-image-div" style="margin-right:0;"><a href="the-committee/the-archive"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!09.26.00322/pct:0,50,60,50/350,350/0/native.jpg"></a></div>
         <div style="float:left;padding-left:1rem;">
-     <h2><b><a href="the-rescue/people">The Archive</a></b></h2>
+     <h2><b><a href="the-committee/the-archive">The Archive</a></b></h2>
      <p>text text text</p>
      </div>
      <div style="clear:both;"></div>
