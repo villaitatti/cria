@@ -88,8 +88,7 @@ fire_plugin_hook('public_header');
 		
 
 	  
-	        <h1 class="header-logo-centered"><a href="#"><img width="150px" src="themes/cria/images/CRIA_logo_centered.svg" alt="CRIA">
-		  </a></h1>
+
 	  
 
         
@@ -99,8 +98,11 @@ fire_plugin_hook('public_header');
 	<div class="row">
 		<div class="large-12 columns">
 
-<article>
-  “The flood that swept across Italy cut a path
+<div id="home-text">
+    	        <a href="#"><img width="100%" src="themes/cria/images/logo.svg" alt="CRIA">
+		  </a>
+    
+  <div class="justified-home">“The flood that swept across Italy cut a path
 of destruction through our own cultural heritage.
 CRIA - the Committee to Rescue Italian
 Art - arose spontaneously among a group of
@@ -110,9 +112,17 @@ culture of our civilization. Within a matter of
 days this personal commitment was transformed
 into a nationwide volunteer organization
 sending professional help and materials
-to Italy.”
-    <h1> <a style="color:white;" href="#pageStart">the story<br /><b>↓</b></a></h1>
-</article>
+      to Italy.”</div>
+
+    <div class="the-story">
+    <h3 class="white" > A collection of documents, videos, and over 900 photographs illustrate the story of CRIA</h3>
+    </div>
+    <div class="the-story">
+        <a  href="#pageStart"><h1 class="white">the story<br /><b>v</b></h1></a>    
+        
+    </div>
+    
+</div>
 
 
 

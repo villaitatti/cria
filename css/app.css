@@ -123,25 +123,46 @@ Photos to rotate on homapage
 07.09.00294  (composizione)
 ----------------------------------------- */
 
+.white
 
-article {
+{
+    color: white;
+    
+}
+#home-text {
   position: fixed;
   top: 50%;
   left: 50%;
-width: 40rem;
-    
-  font-size: 1.3rem;
-  letter-spacing: 3px;
+width: 35rem;
   color: #fff;
-  text-align: justify;
   transform: translate(-50%, -50%);
 }
+
+.justified-home {
+      text-align: justify;
+      font-size: 1.3rem;
+  letter-spacing: 3px;
+  color: #fff;
+
+}
+
+.the-story{
+    padding-top:5rem;
+      color: #fff;
+    text-align: center;
+    width: 100%;
+}
+
+
 #mainMenu {
     
     background-image: url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.23.00316bis/pct:5,5,90,40/full/0/native.jpg);
     
+    
+    
     background-position: top center;
   
+
   /* Image doesn't repeat */
   background-repeat: no-repeat;
   
@@ -177,10 +198,12 @@ body#home .headWrapper{
   /* Pick a solid background color that will be displayed while the background image is loading */
   background-color:#464646;
   
+
   /* SHORTHAND CSS NOTATION
    * background: url(background-photo.jpg) center center cover no-repeat fixed;
    */
 }
+
 
 
 
