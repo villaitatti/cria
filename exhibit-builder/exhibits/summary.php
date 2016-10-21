@@ -120,7 +120,7 @@ if (strpos($_SERVER['REQUEST_URI'],'exhibits/show/the-committee') == true) {
 <div class="exhibit-row-container">
 <div class="exhibit-single-page-container small-2 large-4 columns">
      <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-committee/call-to-action"><img src="themes/cria/images/tedkennedy-snapshot.png"></a></div>
+     <div class="exhibit-bigger-image-div"><a href="the-committee/call-to-action"><img src="/themes/cria/images/tedkennedy-snapshot.png"></a></div>
      <!-- Two smaller images -->
      <div style="float:left;">
         <div style="margin-bottom: 4px;">
