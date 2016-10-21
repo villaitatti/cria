@@ -29,26 +29,26 @@
                     <h6>PAGES </h6>
                     <div>
                     <ul style="list-style: none;margin-left:0;">
-                    <li><a>The Story</a></li>
-                    <li><a>The Committee</a></li>
-                    <li><a>The Rescue</a></li>
-                    <li><a>About</a></li>
-                    <li><a>Colophon</a></li>
+                    <li><a href="/#pageStart">The Story</a></li>
+                    <li><a href="/exhibits/show/the-committee">The Committee</a></li>
+                    <li><a href="/exhibits/show/the-rescue">The Rescue</a></li>
+                    <li><a href="/colophon">Colophon</a></li>
                     </ul>
                     </div>
-                </div>			
-            </div>
-            <div class="footer-menu large-3 columns">
-            <?php // echo public_nav_main(); ?>			
-                <div class="">
-                    <h6>?</h6>
                 </div>			
             </div>
             <div class="footer-menu large-3 columns" style="border-right:1px solid #1e1e1e;">
             <?php // echo public_nav_main(); ?>			
                 <div>
                     <h6>CREDITS</h6>
-                    
+                    <div style="font-size:0.8rem;">©&nbsp;2016 The President and Fellows of Harvard College</div>
+                </div>			
+            </div>
+            <div class="footer-menu large-3 columns" style="border-right:1px solid #1e1e1e;">
+            <?php // echo public_nav_main(); ?>			
+                <div>
+                    <h6>CREDITS</h6>
+                    <div style="font-size:0.8rem;">©&nbsp;2016 The President and Fellows of Harvard College</div>
                 </div>			
             </div>            
         </div>

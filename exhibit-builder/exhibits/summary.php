@@ -170,31 +170,42 @@ if (strpos($_SERVER['REQUEST_URI'],'exhibits/show/the-committee') == true) {
 <div>
 <br/>
 <br/>
- <!-- First row container -->
+ <!-- Second row container -->
 <div class="exhibit-row-container">
-    <!-- Single page container Page: Destruction -->
-
+<div class="large-2 columns">&nbsp;</div>
 <!-- Single page container Page: People -->
- <div class="exhibit-single-page-container large-6 columns">
-     <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.15.00401/pct:7,5,62,85/350,350/0/native.jpg"></a></div>
-     <div style="float:left;padding-left:1rem;width:18.44rem;">
-     <h2><b><a href="the-committee/role-of-i-tatti">Role of I Tatti</a></b></h2>
-     <p>I Tatti, because of its location on a hill, suffered no damage and hosted the collection of glass plates belonging to the  Gabinetto Fotografico degli Uffizi.</p>
-     <p>In a series of photographs held by the Berenson Library we can see the glass plates housed in the garden and in the Limonaia.</p>
+ <div class="exhibit-single-page-container small-2 large-4 columns">
+<!-- Bigger image -->
+     <div class="exhibit-bigger-image-div"><a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.15.00401/pct:7,5,62,85/280,280/0/native.jpg"></a></div>
+     <!-- Two smaller images -->
+     <div style="float:left;">
+        <div style="margin-bottom: 4px;">
+     <a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.19.00469/pct:25,10,64,84/138,138/0/native.jpg"></a>
+        </div>
+        <div> 
+     <a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.18.00461/pct:4,10,93,66/138,138/0/native.jpg"></a>
+        </div>
      </div>
      <div style="clear:both;"></div>
+     <h2><b><a href="the-committee/role-of-i-tatti">Role of I Tatti</a></b></h2>
  </div>
 <!-- Single page container Page: Cultural Heritage -->
- <div class="exhibit-single-page-container large-6 columns" style="margin-right:0;">
-     <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div" style="margin-right:0;"><a href="the-committee/the-archive"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!09.26.00322/pct:0,50,60,50/350,350/0/native.jpg"></a></div>
-        <div style="float:left;padding-left:1rem;">
-     <h2><b><a href="the-committee/the-archive">The Archive</a></b></h2>
-     <p>text text text</p>
+<div class="exhibit-single-page-container small-2 large-4 columns">
+<!-- Bigger image -->
+     <div class="exhibit-bigger-image-div"><a href="the-committee/the-archive"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.15.00401/pct:7,5,62,85/280,280/0/native.jpg"></a></div>
+     <!-- Two smaller images -->
+     <div style="float:left;">
+        <div style="margin-bottom: 4px;">
+     <a href="the-committee/the-archive"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.19.00469/pct:25,10,64,84/138,138/0/native.jpg"></a>
+        </div>
+        <div> 
+     <a href="the-committee/the-archive"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.18.00461/pct:4,10,93,66/138,138/0/native.jpg"></a>
+        </div>
      </div>
      <div style="clear:both;"></div>
- </div>
+     <h2><b><a href="the-committee/the-archive">Role of I Tatti</a></b></h2>
+ </div>   
+ <div class="large-2 columns">&nbsp;</div>
  <br style="clear: left;" />
 </div>
 </div>
