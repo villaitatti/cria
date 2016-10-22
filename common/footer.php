@@ -51,7 +51,7 @@
             <?php // echo public_nav_main(); ?>			
                 <div>
                     <h6>CREDITS</h6>
-                    <img style="margin-top:2rem;" src="themes/cria/images/logo-itatti.png" alt="Villa I Tatti">
+                    <img style="margin-top:2rem;" src="/themes/cria/images/logo-itatti.png" alt="Villa I Tatti">
                     <div style="font-size:0.8rem;">©&nbsp;2016 The President and Fellows of Harvard College</div>
                 </div>			
             </div>            
