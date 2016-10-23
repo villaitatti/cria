@@ -219,7 +219,7 @@ font-size: 1.8125rem;
 }
 
 body#home .top-bar {
-    padding:1rem !important;
+    padding:0.2rem !important;
 }
 
 
@@ -237,8 +237,8 @@ left:50%;
 
 
 body#home .top-bar {
-    background-color:darkgray!important;
-    height: 5rem;
+    background-color:#6d6d6d!important;
+    height: 3rem;
 
 }
 

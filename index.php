@@ -148,14 +148,14 @@ sending professional help and materials
     <!-- Right Nav Section -->
     <ul class="right">
 
-          <li><a href="/exhibits/show/the-rescue">the rescue</a></li>
+          <li><a style="font-size:1.2rem;" href="/exhibits/show/the-rescue">the rescue</a></li>
 
         </ul>
 
 
     <!-- Left Nav Section -->
     <ul class="left">
-          <li><a href="/exhibits/show/the-committee">the committee</a></li>
+          <li><a style="font-size:1.2rem;" href="/exhibits/show/the-committee">the committee</a></li>
     </ul>
 	  
 	  
