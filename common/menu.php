@@ -16,7 +16,7 @@ echo link_to_home_page(theme_logo());
     <div style="margin-top: 14rem;position:absolute;left:38%">
     <a style="color:#fff;margin-right:2rem;font-size:1.8rem;" href="/exhibits/show/the-committee">The Committee &darr;</a>    
     <a style="color:#fff;margin-right:2rem;font-size:1.8rem;" href="/exhibits/show/the-rescue">The Rescue &darr;</a>
-    <a style="color:#fff;margin-right:2rem;font-size:1.8rem;" href="/exhibits/show/the-committee">The Story &darr;</a>
+    <a style="color:#fff;margin-right:2rem;font-size:1.8rem;" href="/#pageStart">The Story &darr;</a>
     </div>
 </div> 
   <!-- end main menu -->
@@ -27,7 +27,7 @@ echo link_to_home_page(theme_logo());
     //alert(pathname);
     // The Committee
     if (pathname === "/exhibits/show/the-committee") {
-        $('#mainMenu').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:5,5,90,40/full/0/native.jpg)');    
+        $('#mainMenu').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:5,5,90,40/full/0/native.jpg)');   
     }
     // Call to Action
     if (pathname === "/exhibits/show/the-committee/call-to-action") {
@@ -51,7 +51,7 @@ echo link_to_home_page(theme_logo());
     }
     // The Rescue
     if (pathname === "/prod/exhibits/show/the-rescue") {
-        $('#mainMenu').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!09.09.00162/pct:5,45,90,40/full/0/native.jpg)');    
+        $('#mainMenu').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!09.09.00162/pct:5,45,90,40/full/0/native.jpg)');
     }
     // Destruction
     if (pathname === "/exhibits/show/the-rescue/destruction") {
