@@ -82,8 +82,8 @@ if (strpos($_SERVER['REQUEST_URI'],'exhibits/show/the-rescue') == true) {
 <div><h1><b>CRIA's projects</b></h1></div>
 <div class="exhibit-row-container">
  <div class="exhibit-single-image-4-pics-container large-3 columns">
-     <a href="the-rescue/wood---sculpture"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.14.00160/pct:20,22,70,62/319,319/0/native.jpg"></a>
-     <h2><b><a href="the-rescue/wood---sculpture">Wood &amp; Sculpture</a></b></h2>
+     <a href="the-rescue/wood-sculpture"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.14.00160/pct:20,22,70,62/319,319/0/native.jpg"></a>
+     <h2><b><a href="the-rescue/wood-sculpture">Wood &amp; Sculpture</a></b></h2>
 </div>
 <div class="exhibit-single-image-4-pics-container large-3 columns">
     <a href="the-rescue/paintings"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.13.00372/pct:0,00,70,95/319,319/0/native.jpg"></a>
