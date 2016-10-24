@@ -4,22 +4,11 @@
 
     <div id="footer">
         <div class="row">			
-<!-- about menu----	<h4>About</h4>
-		<ul class="link-list">
-			<li><a href="http://omeka.org" id="omeka-logo" name="omeka-logo">Powered by Omeka</a></li> <li> <a href="http://omeka.org/codex/">Documentation</a></li> <li> <a href="http://omeka.org/forums/">Support Forums</a></li>
-		</ul>
-		</div>		
-<!--- main menu ---
-		<div class="footer-menu large-4 columns">
-		<h4>Menu</h4>
-		<ul class="link-list"
-		</ul>
-		</div>-->
-            <div class="footer-menu large-3 columns">
+
+            <div class="footer-menu large-3 columns" style="border:none;">
             <?php // echo public_nav_main(); ?>			
                 <div>
                     <h6>SEARCH</h6>
-                    <?php //echo link_to_item_search('More Search Options'); ?>
                     <?php echo search_form(array('show_advanced' => false));?>
                 </div>			
             </div>
@@ -47,10 +36,9 @@
 </p>
                 </div>			
             </div>
-            <div class="footer-menu large-3 columns" style="border-right:1px solid #1e1e1e;">
-            <?php // echo public_nav_main(); ?>			
+            <div class="footer-menu large-3 columns">		
                 <div>
-                    <h6>CREDITS</h6>
+                   
                     <img style="margin-top:2rem;" src="/themes/cria/images/logo-itatti.png" alt="Villa I Tatti">
                     <div style="font-size:0.8rem;">©&nbsp;2016 The President and Fellows of Harvard College</div>
                 </div>			

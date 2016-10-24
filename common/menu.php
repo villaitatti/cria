@@ -1,12 +1,6 @@
-		
-		  <!-- start main menu -->
+<!-- start main menu -->
 <div id= header>
 
-    
-    
-    
-    
-    
     <nav class="top-bar" data-topbar role="navigation">
   <ul class="title-area">
     <li class="name">
@@ -20,16 +14,16 @@
   <section class="top-bar-section">
     <!-- Right Nav Section -->
     <ul class="right">
-<li class="has-form">
-  <div class="row collapse">
-    <div class="large-8 small-9 columns">
-      <input type="text" placeholder="Find Stuff">
-    </div>
-    <div class="large-4 small-3 columns">
-      <a href="#" class="alert button expand">Search</a>
-    </div>
-  </div>
-</li>
+          <li><a href="#" class="search-icon"></a> </li>
+         
+          <a href="#" class="search-icon"><li class="search-field"></li></a>
+            <form>
+              <div class="row collapse">
+                <div class="small-12 columns">
+                  <input type="text" class="dream-search" placeholder="Search">
+                </div>
+              </div>
+            </form>
     </ul>
 
     <!-- Left Nav Section -->
