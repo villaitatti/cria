@@ -100,7 +100,8 @@ culture of our civilization. Within a matter of
 days this personal commitment was transformed
 into a nationwide volunteer organization
 sending professional help and materials
-      to Italy.”</div>
+      to Italy.”<br />
+   <img width="100%" src="themes/cria/images/cria-line.svg" alt="CRIA" ></div>
 
     <div class="the-story">
     <h3 class="white" > A collection of documents, videos, and over 900 photographs illustrate the story of CRIA</h3>

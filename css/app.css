@@ -136,6 +136,8 @@ Photos to rotate on homapage
 width: 35rem;
   color: #fff;
   transform: translate(-50%, -50%);
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+font-weight: 500;
 }
 
 .justified-home {
@@ -178,8 +180,9 @@ width: 35rem;
 }
 
 body#home .headWrapper{
+
   /* Location of the image */
-  background-image: url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.14.00150/pct:5,5,90,90/!1400,1400/0/native.jpg);
+  background-image: url(/themes/cria/images/home.jpg);
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;
@@ -201,11 +204,8 @@ body#home .headWrapper{
   /* SHORTHAND CSS NOTATION
    * background: url(background-photo.jpg) center center cover no-repeat fixed;
    */
+    
 }
-
-
-
-
 
 .top-bar, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section ul li {
 background-color: #F0F0F0 !important;
@@ -222,9 +222,7 @@ nav.top-bar {
     height: 3.5rem !important;
 }
 
-body#home .top-bar {
 
-}
 
 
 
