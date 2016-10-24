@@ -5,13 +5,6 @@
     <div id="footer">
         <div class="row">			
 
-            <div class="footer-menu large-3 columns" style="border:none;">
-            <?php // echo public_nav_main(); ?>			
-                <div>
-                    <h6>SEARCH</h6>
-                    <?php echo search_form(array('show_advanced' => false));?>
-                </div>			
-            </div>
             <div class="footer-menu large-2 columns">
             <?php // echo public_nav_main(); ?>			
                 <div class="">
@@ -36,9 +29,10 @@
 </p>
                 </div>			
             </div>
-            <div class="footer-menu large-3 columns">		
+            <div class="footer-menu large-3 columns">
+            <?php // echo public_nav_main(); ?>			
                 <div>
-                   
+
                     <img style="margin-top:2rem;" src="/themes/cria/images/logo-itatti.png" alt="Villa I Tatti">
                     <div style="font-size:0.8rem;">©&nbsp;2016 The President and Fellows of Harvard College</div>
                 </div>			

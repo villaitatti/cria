@@ -24,7 +24,7 @@
          
           <i class="fi-magnifying-glass"></i>
           <a href="#" class="search-icon"><li class="search-field"></li></a>
-            <form>
+            <form id="search-form" action="/search" method="get">
               <div class="row collapse">
                 <div class="small-12 columns">
                   <input type="text" name="query" id="query" class="dream-search" placeholder="Search">
