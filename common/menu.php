@@ -34,7 +34,7 @@
     </ul>
 
     <!-- Left Nav Section -->
-    <ul class="left">
+    <ul >
       <li><a href="/#the-story">The Story</a></li>
       <li><a href="/exhibits/show/the-committee">The Committee</a></li>
       <li><a href="/exhibits/show/the-rescue">The Rescue</a></li>
