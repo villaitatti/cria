@@ -154,7 +154,7 @@ width: 35rem;
 }
 
 
-#mainMenu {
+#header {
     
     background-image: url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.23.00316bis/pct:5,5,90,40/full/0/native.jpg);
     
@@ -174,6 +174,7 @@ width: 35rem;
   background-size: cover;
     width: 100%;
     height: 25rem;
+    
 }
 
 body#home .headWrapper{
@@ -207,19 +208,22 @@ body#home .headWrapper{
 
 
 .top-bar, .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section ul li {
-background: transparent !important;
-font-size: 1.8125rem;
+background-color: #F0F0F0 !important;
+font-size: 1.5125rem;
+color: #0F0F0F !important;
 }
 
 
 
 
-.top-bar {
-    padding:3rem !important;
+nav.top-bar {
+    padding:.5rem !important;
+    background-color: #F0F0F0 !important;
+    height: 3.5rem !important;
 }
 
 body#home .top-bar {
-    padding:0.2rem !important;
+
 }
 
 
@@ -228,29 +232,8 @@ body#home .top-bar {
 width: 100%;
 }
 
-.header-logo-centered{
-position:absolute;
-left:50%;
-  transform: translate(-50%, 0);
-}
 
 
-
-body#home .top-bar {
-    background-color:#6d6d6d!important;
-    height: 3rem;
-
-}
-
-body#home .header-logo-centered {
-    padding-top: 3rem;
-}
-
-
-
-.top-bar-section ul {
-	background: inherit;
-}
 
 
 
