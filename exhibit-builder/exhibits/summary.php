@@ -180,10 +180,10 @@ if (strpos($_SERVER['REQUEST_URI'],'exhibits/show/the-committee') == true) {
      <!-- Two smaller images -->
      <div style="float:left;">
         <div style="margin-bottom: 4px;">
-     <a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.19.00469/pct:25,10,64,84/138,138/0/native.jpg"></a>
+     <a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.19.00470/pct:32,0,43,32/138,138/0/native.jpg"></a>
         </div>
         <div> 
-     <a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.18.00461/pct:4,10,93,66/138,138/0/native.jpg"></a>
+     <a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!25.16.00954/pct:0,12,30,40/138,138/0/native.jpg"></a>
         </div>
      </div>
      <div style="clear:both;"></div>
