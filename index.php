@@ -106,7 +106,7 @@ sending professional help and materials
     <h3 class="white" > A collection of documents, videos, and over 900 photographs illustrate the story of CRIA</h3>
     </div>
     <div class="the-story">
-        <a  href="#pageStart"><h1 class="white">the story<br /><b>v</b></h1></a>    
+        <a  href="#the-story"><h1 class="white">the story<br /><b>v</b></h1></a>    
         
     </div>
     
@@ -135,44 +135,48 @@ sending professional help and materials
 
 
 
-<div id="pageStart">
+<div>
     
     
                 		  <!-- ************ start main ***********menu -->
 
-	<nav class="top-bar" data-topbar role="navigation">
-  
-	  
-  <section class="top-bar-section">	
-	  
+	
+     <nav class="top-bar" data-topbar role="navigation">
+  <ul class="title-area">
+    <li class="name">
+      <h1><a href="/"><img height="30px" width="100px" src="/themes/cria/images/logo.svg" alt="CRIA">
+		  </a></h1>
+    </li>
+     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+  </ul>
+
+  <section class="top-bar-section">
     <!-- Right Nav Section -->
     <ul class="right">
-
-          <li><a style="font-size:1.2rem;" href="/exhibits/show/the-rescue">the rescue</a></li>
-
-        </ul>
-
+<li class="has-form">
+  <div class="row collapse">
+    <div class="large-8 small-9 columns">
+      <input type="text" placeholder="Find Stuff">
+    </div>
+    <div class="large-4 small-3 columns">
+      <a href="#" class="alert button expand">Search</a>
+    </div>
+  </div>
+</li>
+    </ul>
 
     <!-- Left Nav Section -->
     <ul class="left">
-          <li><a style="font-size:1.2rem;" href="/exhibits/show/the-committee">the committee</a></li>
+      <li><a href="/#the-story">The Story</a></li>
+      <li><a href="/exhibits/show/the-committee">The Committee</a></li>
+      <li><a href="/exhibits/show/the-rescue">The Rescue</a></li>
     </ul>
-	  
-	  
-	  	  
   </section>
-
-			
-	<ul class="title-area">
+</nav>
     
-     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-  </ul>			
-			
-			
-			</nav>
 
-	<div class="row">
+	<div id="the-story" class="row">
 		
 		<div class="large-12 columns">
             
@@ -185,7 +189,7 @@ sending professional help and materials
   <div class="small-3 columns">The flood<br />
               CRIA<br />
               </div>
-  <div id="flood" class="small-9 columns">
+  <div class="small-9 columns">
               <h1>THE FLOOD</h1>
 <p>During the night of November 4, the levels of the river Arno began to rise swiftly and with little warning. The Arno flows through the very center of the city of Florence and in perilous proximity to many of its most significant monuments. The river was already swollen, and the surrounding area saturated, by heavy rains that autumn. The Uffizi, the Accademia, the national library and state archives, the Duomo and the Ponte Vecchio are among the countless artistic and cultural treasures concentrated within Florence’s historic center, and they all lay within the floodplain.</p>
 <p>Intense rainfall on the evening of November 3rd continued into the small hours the following day, and the river level rose by six meters in as many hours. In Florence, the Arno soon overwhelmed its banks, its levels peaking after dawn on November 4 and showing no sign of receding until the evening. The historic center and the neighborhoods along the river were inundated in a very short time. Thousands of Florentines were forced to abandon their homes and take refuge on the highest floors of apartment buildings or even on the roofs of houses. The fire brigades and army answered thousands of calls to save people besieged by the high waters.  Twenty-nine people died.</p>
@@ -286,7 +290,7 @@ The deposits of the National Library of Florence were completely inundated, and 
             
             
 <style>
-    #mainMenu {background-image: none !important;}
+    #header {background-image: none !important;}
             </style>
             
 <footer>

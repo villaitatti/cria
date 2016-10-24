@@ -1,24 +1,48 @@
 		
 		  <!-- start main menu -->
-<div id= mainMenu>
-	<nav class="top-bar" data-topbar role="navigation">
-  
-	  
-  <section class="top-bar-section">	
-	  
-	        <h1 class="header-logo-centered"><a href="#"><?php
-echo link_to_home_page(theme_logo());
-?>
+<div id= header>
+
+    
+    
+    
+    
+    
+    <nav class="top-bar" data-topbar role="navigation">
+  <ul class="title-area">
+    <li class="name">
+      <h1><a href="/"><img height="30px" width="100px" src="/themes/cria/images/logo.svg" alt="CRIA">
 		  </a></h1>
-	  
+    </li>
+     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+  </ul>
+
+  <section class="top-bar-section">
+    <!-- Right Nav Section -->
+    <ul class="right">
+<li class="has-form">
+  <div class="row collapse">
+    <div class="large-8 small-9 columns">
+      <input type="text" placeholder="Find Stuff">
+    </div>
+    <div class="large-4 small-3 columns">
+      <a href="#" class="alert button expand">Search</a>
+    </div>
+  </div>
+</li>
+    </ul>
+
+    <!-- Left Nav Section -->
+    <ul class="left">
+      <li><a href="/#the-story">The Story</a></li>
+      <li><a href="/exhibits/show/the-committee">The Committee</a></li>
+      <li><a href="/exhibits/show/the-rescue">The Rescue</a></li>
+    </ul>
   </section>
 </nav>
-    <div style="margin-top: 14rem;position:absolute;left:38%">
-    <a style="color:#fff;margin-right:2rem;font-size:1.8rem;" href="/exhibits/show/the-committee">The Committee &darr;</a>    
-    <a style="color:#fff;margin-right:2rem;font-size:1.8rem;" href="/exhibits/show/the-rescue">The Rescue &darr;</a>
-    <a style="color:#fff;margin-right:2rem;font-size:1.8rem;" href="/#pageStart">The Story &darr;</a>
-    </div>
-</div> 
+    
+
+</div>
   <!-- end main menu -->
 
 <!-- Script for changing the Banner images -->
