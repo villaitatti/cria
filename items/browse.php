@@ -36,7 +36,20 @@ $sortLinks[__('Date Added')] = 'added';
     </div>
     <?php endif; ?>
     <div style="height:4.375rem;">
-        <h6><?php echo link_to_item(metadata('item', array('Dublin Core', 'Title')), array('class'=>'permalink')); ?></h6>
+        <?php
+if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']))
+{
+
+    $searchlink = record_url('item').'?' . $_SERVER['QUERY_STRING'];
+
+    echo '<h6><a href="'.$searchlink.'">'. metadata('item', array('Dublin Core','Title')).'</a></h6>';
+}
+
+else
+{
+    echo '<h6>'.link_to_item(metadata('item', array('Dublin Core','Title')), array('class'=>'permalink')).'</h6>';
+}
+?>
     </div>
     <?php fire_plugin_hook('public_items_browse_each', array('view' => $this, 'item' =>$item)); ?>
 
