@@ -76,34 +76,34 @@
     }
     // The Rescue
     if (pathname === "/exhibits/show/the-rescue") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.14.00158/pct:4,23,100,40/full/0/native.jpg)');
+        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.14.00158/pct:4,28,100,40/full/0/native.jpg)');
     }
     // Destruction
     if (pathname === "/exhibits/show/the-rescue/destruction") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:5,5,90,40/full/0/native.jpg)');    
+        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.17.00442/pct:3,54,95,22/full/0/native.jpg)');    
     }
     // People
     if (pathname === "/exhibits/show/the-rescue/people") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:5,5,90,40/full/0/native.jpg)');    
+        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.11.00323/pct:3,35,95,23/full/0/native.jpg)');    
     }
     // Cultural Heritage
     if (pathname === "/exhibits/show/the-rescue/cultural-heritage") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:5,5,90,40/full/0/native.jpg)');    
+        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.01.00002/pct:3,30,95,23/full/0/native.jpg)');    
     }
     // Monuments & Museums
     if (pathname === "/exhibits/show/the-rescue/monuments---museums") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:5,5,90,40/full/0/native.jpg)');    
+        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.11.00124/pct:3,45,95,18/full/0/native.jpg)');    
     }
     // Painting
     if (pathname === "/exhibits/show/the-rescue/painting") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:5,5,90,40/full/0/native.jpg)');    
+        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.23.00316bis/pct:3,8,95,23/full/0/native.jpg)');    
     }
     // Wood & Sculpture
-    if (pathname === "/exhibits/show/the-rescue/wood---sculpture") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:5,5,90,40/full/0/native.jpg)');    
+    if (pathname === "/exhibits/show/the-rescue/wood-sculpture") {
+        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!09.20.00193/pct:3,30,95,23/full/0/native.jpg)');    
     }
     // Paper
     if (pathname === "/exhibits/show/the-rescue/paper") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:5,5,90,40/full/0/native.jpg)');    
+        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.17.00182/pct:3,45,95,18/full/0/native.jpg)');    
     }
 </script>
