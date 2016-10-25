@@ -2,13 +2,15 @@
 		  <!-- start main menu -->
 <div id= header>
 
-    
-    
-    
-    
-    
+    <div class="header-menu">
+              <div class="row">
+		<div class="large-12 columns">	
+            
+            
     <nav class="top-bar" data-topbar role="navigation">
+
   <ul class="title-area">
+
     <li class="name">
       <h1><a href="/"><img height="30px" width="100px" src="/themes/cria/images/logo.svg" alt="CRIA">
 		  </a></h1>
@@ -34,15 +36,16 @@
     </ul>
 
     <!-- Left Nav Section -->
-    <ul >
+    <ul class="center">
       <li><a href="/#the-story">The Story</a></li>
       <li><a href="/exhibits/show/the-committee">The Committee</a></li>
       <li><a href="/exhibits/show/the-rescue">The Rescue</a></li>
     </ul>
   </section>
+
 </nav>
     
-
+                  </div></div>  </div>    
 </div>
   <!-- end main menu -->
 
