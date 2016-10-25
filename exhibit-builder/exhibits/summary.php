@@ -259,20 +259,7 @@ if ($pageTree):
  </div>
  <br style="clear: left;" />
 <br/>
-    <?php
-$whitelist = array(
-    '127.0.0.1',
-    '::1'
-);
-if(in_array($_SERVER['REMOTE_ADDR'], $whitelist))
-{
-     $browse_item_link = "/prod/items/browse";
-}
-else {
-    $browse_item_link = "/items/browse";
-}
-?>
- <a href="<?php echo $browse_item_link; ?>" class="button">VIEW</a>
+ <a href="/items/browse" class="button">VIEW</a>
 </div>
 <br/>
 

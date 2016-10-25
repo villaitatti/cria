@@ -52,7 +52,7 @@
     //alert(pathname);
     // The Committee
     if (pathname === "/exhibits/show/the-committee") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:5,5,90,40/full/0/native.jpg)');   
+        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00347/pct:4,25,94,30/full/0/native.jpg)');   
     }
     // Call to Action
     if (pathname === "/exhibits/show/the-committee/call-to-action") {
@@ -72,11 +72,11 @@
     }
     // The Archive
     if (pathname === "/exhibits/show/the-committee/the-archive") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:5,5,90,40/full/0/native.jpg)');    
+        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!17.11.00572/pct:0,45,100,20/full/0/native.jpg)');    
     }
     // The Rescue
     if (pathname === "/exhibits/show/the-rescue") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!09.09.00162/pct:5,45,90,40/full/0/native.jpg)');
+        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.14.00158/pct:4,23,100,40/full/0/native.jpg)');
     }
     // Destruction
     if (pathname === "/exhibits/show/the-rescue/destruction") {
