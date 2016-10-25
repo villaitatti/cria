@@ -171,7 +171,7 @@ font-weight: 500;
   /* This is what makes the background image rescale based on its container's size */
   background-size: cover;
     width: 100%;
-    height: 25rem; 
+    height: 34.75rem; /* 556 px is the whole header, minus 56px of the menu = 500px left for the banner */
 }
 
 body#home .headWrapper{
