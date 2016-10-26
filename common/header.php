@@ -40,11 +40,13 @@ queue_css_url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:300,
 queue_css_file('foundation');
 queue_css_file('app');
 queue_css_file('zoom');
+queue_css_file('jquery-tilesgallery');
+    
 echo head_css();
 ?>
 
   <!-- JavaScripts -->
-  <?php queue_js_file(array('app','vendor/jquery','vendor/custom.modernizr','openseadragon.min', 'zoom')); ?>
+  <?php queue_js_file(array('app','vendor/jquery','vendor/custom.modernizr','openseadragon.min', 'zoom', 'jquery.tilesgallery')); ?>
 
 
   <?php
