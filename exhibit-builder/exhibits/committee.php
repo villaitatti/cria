@@ -3,17 +3,7 @@
 <div class="exhibit-row-container">
 <div class="exhibit-single-page-container small-2 large-4 columns">
      <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-committee/call-to-action"><img src="/themes/cria/images/tedkennedy-snapshot.png"></a></div>
-     <!-- Two smaller images -->
-     <div style="float:left;">
-        <div style="margin-bottom: 4px;">
-     <a href="the-committee/call-to-action"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!telegram-378/pct:10,3,82,93/138,138/0/native.jpg"></a>
-        </div>
-        <div> 
-     <a href="the-committee/call-to-action"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!telegram-391/pct:10,3,82,93/138,138/0/native.jpg"></a>
-        </div>
-     </div>
-     <div style="clear:both;"></div>
+     <div class="exhibit-bigger-image-div"><a href="the-committee/call-to-action"><img src="/themes/cria/images/ted-w426.png"></a></div>
      <h2><b><a href="the-committee/call-to-action">Call to Action</a></b></h2>
  </div>
 <!-- Single page container Page: People -->
@@ -35,17 +25,7 @@
     
  <div class="exhibit-single-page-container small-2 large-4 columns">
 <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-committee/cria-in-numbers"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.12.00348/pct:3,2,90,83/280,280/0/native.jpg"></a></div>
-     <!-- Two smaller images -->
-     <div style="float:left;">
-        <div style="margin-bottom: 4px;">
-     <a href="the-committee/cria-in-numbers"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.11.00331/pct:0,20,100,80/138,138/0/native.jpg"></a>
-        </div>
-        <div> 
-     <a href="the-committee/cria-in-numbers"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.11.00341/pct:0,0,100,100/138,138/0/native.jpg"></a>
-        </div>
-     </div>
-     <div style="clear:both;"></div>
+     <div class="exhibit-bigger-image-div"><a href="the-committee/cria-in-numbers"><img src="/themes/cria/images/crianumbers-fulltext.png"></a></div>
      <h2><b><a href="the-committee/cria-in-numbers">CRIA in Numbers</a></b></h2>
  </div>
  <br style="clear: left;" />
@@ -61,40 +41,28 @@
 <br/>
  <!-- Second row container -->
 <div class="exhibit-row-container">
-<div class="large-2 columns">&nbsp;</div>
+
 <!-- Single page container Page: People -->
- <div class="exhibit-single-page-container small-2 large-4 columns">
+ <div class="exhibit-single-page-container large-3 columns">
 <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.15.00401/pct:7,5,62,85/280,280/0/native.jpg"></a></div>
-     <!-- Two smaller images -->
-     <div style="float:left;">
-        <div style="margin-bottom: 4px;">
-     <a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.19.00470/pct:32,0,43,32/138,138/0/native.jpg"></a>
-        </div>
-        <div> 
-     <a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!25.16.00954/pct:0,12,30,40/138,138/0/native.jpg"></a>
-        </div>
-     </div>
-     <div style="clear:both;"></div>
-     <h2><b><a href="the-committee/role-of-i-tatti">Role of I Tatti</a></b></h2>
+     <div class="exhibit-bigger-image-div"><a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.15.00401/pct:7,5,62,85/334,334/0/native.jpg"></a></div>
+     
  </div>
+<div class="large-3 columns" style="padding-left:0;">
+    <h2><b><a href="the-committee/role-of-i-tatti">Role of I Tatti</a></b></h2>
+    <p>When the Committee to Rescue Italian Art (C.R.I.A.) was formed in the United States I Tatti became its Florentine headquarters. The first representatives who came to inspect the situation, Professors F. Hartt and F. Licht, stayed at the Villa as did several of the expert restorers who were sent by the Committee. Meetings were arranged at I Tatti in which the Italian restorers could meet their opposite numbers to discuss technical problems.</p>
+</div>
 <!-- Single page container Page: Cultural Heritage -->
-<div class="exhibit-single-page-container small-2 large-4 columns">
+<div class="exhibit-single-page-container large-3 columns">
 <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-committee/the-archive"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.15.00401/pct:7,5,62,85/280,280/0/native.jpg"></a></div>
-     <!-- Two smaller images -->
-     <div style="float:left;">
-        <div style="margin-bottom: 4px;">
-     <a href="the-committee/the-archive"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.19.00469/pct:25,10,64,84/138,138/0/native.jpg"></a>
-        </div>
-        <div> 
-     <a href="the-committee/the-archive"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.18.00461/pct:4,10,93,66/138,138/0/native.jpg"></a>
-        </div>
-     </div>
-     <div style="clear:both;"></div>
-     <h2><b><a href="the-committee/the-archive">The Archive</a></b></h2>
- </div>   
- <div class="large-2 columns">&nbsp;</div>
+     <div class="exhibit-bigger-image-div"><a href="the-committee/the-archive"><img src="/themes/cria/images/thearchive.png"></a></div>
+     
+</div>   
+<div class="large-3 columns" style="padding-left:0;">
+    <h2><b><a href="the-committee/the-archive">The Archive</a></b></h2>
+    <p>The papers of the Committee to Rescue Italian Art that are known still to exist are held by  the Berenson Library at Villa I Tatti by virtue of I Tatti’s central role in the organization’s activities in Florence. The bulk of the archive was left by Myron P. Gilmore, Director of I Tatti from 1964, and a member of the Advisory Committee of CRIA from its inception. He retired as Director in June, 1973, a few months after the closure of CRIA’s Florentine office.
+    </p>
+    </div>
  <br style="clear: left;" />
 </div>
 </div>
