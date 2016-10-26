@@ -87,7 +87,7 @@ fire_plugin_hook('public_header');
 
 		
 <div id="home-text">
-    	        <a href="#"><img width="100%" src="themes/cria/images/logo.svg" alt="CRIA">
+    	        <a href="#the-story"><img width="100%" src="themes/cria/images/logo.svg" alt="CRIA">
 		  </a>
     
   <div class="justified-home">“The flood that swept across Italy cut a path
@@ -196,12 +196,11 @@ sending professional help and materials
           <div class="row" style="padding-top:3rem">
               <div class="small-3 columns">&nbsp;</div>
   <div class="small-6 columns">
-              <h1 style="margin-top:3rem">THE FLOOD</h1>
+      <iframe src="https://player.vimeo.com/video/186245220?title=0&byline=0&portrait=0" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/186245220">CRIA appeal</a></p>
+              <h1 style="margin-top:3rem"><strong>THE FLOOD</strong></h1>
       
-      <div class="video-container"> 
-            
-                <iframe src="https://player.vimeo.com/video/186245220" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>                
-            </div>
+
 <p style="padding-top:2rem;">During the night of November 4, the levels of the river Arno began to rise swiftly and with little warning. The Arno flows through the very center of the city of Florence and in perilous proximity to many of its most significant monuments. The river was already swollen, and the surrounding area saturated, by heavy rains that autumn. The Uffizi, the Accademia, the national library and state archives, the Duomo and the Ponte Vecchio are among the countless artistic and cultural treasures concentrated within Florence’s historic center, and they all lay within the floodplain.</p>
 <p>Intense rainfall on the evening of November 3rd continued into the small hours the following day, and the river level rose by six meters in as many hours. In Florence, the Arno soon overwhelmed its banks, its levels peaking after dawn on November 4 and showing no sign of receding until the evening. The historic center and the neighborhoods along the river were inundated in a very short time. Thousands of Florentines were forced to abandon their homes and take refuge on the highest floors of apartment buildings or even on the roofs of houses. The fire brigades and army answered thousands of calls to save people besieged by the high waters.  Twenty-nine people died.</p>
 <p>The flood, the most severe ever to strike Florence, swept away everything it found in its way.  The explosion of heating oil tanks formed a slimy film on the current of water, smearing the walls of the city’s houses and monuments and lingering even as the river settled back within its banks.  By then, the heart of the city, its historic district, and many suburban neighborhoods had remained under water for more than a full day.</p>
@@ -209,7 +208,7 @@ sending professional help and materials
       
 
       
-     <p style="padding-left:2rem"> Damages were due not only to immersion in water, but to the fact that the flood hit the city with a speed of 50 miles an hour, shattering objects and transforming movable objects into missiles which were hurled against altarpieces, tearing and breaking them.
+     <p style="padding: 0 3rem"> Damages were due not only to immersion in water, but to the fact that the flood hit the city with a speed of 50 miles an hour, shattering objects and transforming movable objects into missiles which were hurled against altarpieces, tearing and breaking them.
       </p>
       <p>The deposits of the National Library of Florence were completely inundated, and millions of volumes and rare early printed books risked being lost forever. Untold numbers of manuscripts in the nearby State Archives faced the same fate.  
 </p>
@@ -217,9 +216,10 @@ sending professional help and materials
 
 <h1><strong>Committee to Rescue Italian Art (CRIA)</strong></h1>
       
-                              <div class="video-container"> 
-                      <iframe src="https://player.vimeo.com/video/187955193" width="" height="" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>                
-            </div>
+      <iframe src="https://player.vimeo.com/video/187955288?title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/187955288">Ted Kennedy CRIA appeal</a></p>
+      
+
       
 <p style="padding-top:2rem">As soon as news of the disaster reached the United States, concerned scholars of Italian art and culture leapt into action to help save the precious artistic heritage of Florence and other cities, especially Venice, ravaged by floods.  Following the impulse given by Fred Licht and Bates Lowry, professors of art history at Brown University, and Licht’s wife Meg , also an art historian, a group of distinguished scholars, curators, and conservators quickly joined forces to create the  Committee to Rescue Italian Art.  The group’s aim was to raise money to support the emergency rescue operations already underway as well as provide effective long-term assistance for the huge task of restoration ahead.  In addition to artworks and monuments, the Committee promptly expanded its scope to include damaged books and manuscripts from libraries and archives.</p>
       <p>Within a week of the flood, CRIA was already functioning nationwide and had secured large pledges for the recovery efforts.  Under the honorary presidency of Jacqueline Kennedy, widow of the late president John F. Kennedy, CRIA eventually included over 200 members or affiliates from across the United States, comprising members of the advisory committee, the national executive committee, administrative staff, special consultants, and dozens of area representatives from one coast to the other.  It set as its fund-raising goal the substantial sum of $2.5 million – the rough equivalent of $20 million today.  The Committee raised money through direct mail requests, ads, special exhibits of Italian art, fashion shows and cocktail parties, video appeals by famous figures such as Ted Kennedy and Elizabeth Taylor, and screenings of Franco Zeffirelli’s powerful documentary <i>Days of Destruction</i>, on which it had exclusive distribution rights in the U.S.  The response of the American public and of U.S. institutions was enthusiastic and generous, and CRIA came very close to achieving its financial goal.</p>

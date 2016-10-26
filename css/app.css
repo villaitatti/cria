@@ -204,7 +204,7 @@ body#home .headWrapper{
 
  .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section ul li {
 background-color: #F0F0F0 !important;
-font-size: 1.5125rem;
+font-size: 1.7125rem;
 color: #0F0F0F !important;
      padding: 0 1rem;
          position: relative;
@@ -216,7 +216,7 @@ nav.top-bar{
 }
 
 .top-bar {
-    padding:.5rem !important;
+    padding:1rem !important;
     background-color: #F0F0F0 !important;
     height: 3.5rem !important;
     
@@ -224,7 +224,7 @@ nav.top-bar{
 .header-menu {
 
     background-color: #F0F0F0 !important;
-    height: 3.5rem !important;
+    height: 5rem !important;
 }
 
 
