@@ -63,7 +63,7 @@
      <h2><b><a href="the-rescue/wood-sculpture">Wood &amp; Sculpture</a></b></h2>
 </div>
 <div class="exhibit-single-image-4-pics-container large-3 columns">
-    <a href="the-rescue/paintings"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.13.00372/pct:0,00,70,95/319,319/0/native.jpg"></a>
+    <a href="the-rescue/painting"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.13.00372/pct:0,00,70,95/319,319/0/native.jpg"></a>
      <h2><b><a href="the-rescue/painting">Painting</a></b></h2>
 </div>
  <div class="exhibit-single-image-4-pics-container large-3 columns">
