@@ -14,17 +14,7 @@ echo head(array('title'=>$pageTitle,'bodyclass' => 'items browse'));
 
 
 
-<?php if ($total_results > 0): ?>
 
-<?php
-$sortLinks[__('Title')] = 'Dublin Core,Title';
-$sortLinks[__('Date Added')] = 'added';
-?>
-<div id="sort-links" style="margin-top:3.5rem;">
-    <span class="sort-label"><?php echo __('Sort by: '); ?></span><?php echo browse_sort_links($sortLinks); ?>
-</div>
-
-<?php endif; ?>
 
 <?php foreach (loop('items') as $item): ?>
 <div class="item hentry large-3 columns" style="padding: 1rem 0; background:#F0F0F0; border: 3px solid white;">
