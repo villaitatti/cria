@@ -558,6 +558,17 @@ a[rel=tag] {
 }
 
 
+
+
+
+.item-img img {
+    
+    
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
   /* responsive CSS images tiles - https://css-tricks.com/seamless-responsive-photo-grid/ */
 
 

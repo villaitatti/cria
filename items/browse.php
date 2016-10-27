@@ -3,7 +3,7 @@ $pageTitle = __('All images');
 echo head(array('title'=>$pageTitle,'bodyclass' => 'items browse'));
 ?>
 
-<h1><?php echo $pageTitle;?> <?php echo __('(%s total)', $total_results); ?></h1>
+<h1 style="padding-top:2rem;"><?php echo $pageTitle;?> <?php echo __('(%s total)', $total_results); ?></h1>
 
 
 <nav class="items-nav navigation secondary-nav">
@@ -12,7 +12,7 @@ echo head(array('title'=>$pageTitle,'bodyclass' => 'items browse'));
 
 <?php echo item_search_filters(); ?>
 
-<?php echo pagination_links(); ?>
+
 
 <?php if ($total_results > 0): ?>
 
@@ -27,7 +27,7 @@ $sortLinks[__('Date Added')] = 'added';
 <?php endif; ?>
 
 <?php foreach (loop('items') as $item): ?>
-<div class="item hentry large-4 columns" style="margin-bottom:2rem;">
+<div class="item hentry large-3 columns" style="padding: 1rem 0; background:#F0F0F0; border: 3px solid white;">
     
     <div class="item-meta">
     <?php if (metadata('item', 'has thumbnail')): ?>
@@ -35,14 +35,15 @@ $sortLinks[__('Date Added')] = 'added';
         <?php echo link_to_item(item_image('square_thumbnail')); ?>
     </div>
     <?php endif; ?>
-    <div style="height:4.375rem;">
+    <div style="height:3.375rem; padding:1rem; text-aligh:center">
         <?php
 if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']))
 {
-
+    // trim the title to 50 chars
     $searchlink = record_url('item').'?' . $_SERVER['QUERY_STRING'];
-
-    echo '<h6><a href="'.$searchlink.'">'. metadata('item', array('Dublin Core','Title')).'</a></h6>';
+    $imgtitle = substr(metadata('item', array('Dublin Core','Title')), 0, 50);
+    $imgtitle = substr($imgtitle, 0, strrpos($imgtitle, ' ')) . " ...";
+    echo '<h6><a href="'.$searchlink.'">'. $imgtitle.'</a></h6>';
 }
 
 else
