@@ -39,10 +39,18 @@ $sortLinks[__('Date Added')] = 'added';
         <?php
 if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']))
 {
-    // trim the title to 50 chars
+
     $searchlink = record_url('item').'?' . $_SERVER['QUERY_STRING'];
-    $imgtitle = substr(metadata('item', array('Dublin Core','Title')), 0, 50);
-    $imgtitle = substr($imgtitle, 0, strrpos($imgtitle, ' ')) . " ...";
+    
+        // trim the title to 50 chars
+    
+    $imgtitle = substr(metadata('item', array('Dublin Core','Title')), 0, 60);
+    if (strlen($imgtitle) > 59)
+    {
+      $imgtitle = $imgtitle . " ...";  
+        
+    }
+    
     echo '<h6><a href="'.$searchlink.'">'. $imgtitle.'</a></h6>';
 }
 
