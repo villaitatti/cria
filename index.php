@@ -61,7 +61,8 @@ echo head_js();
   ga('send', 'pageview');
 
 </script>
-    
+
+<link rel="icon" href="/themes/cria/images/favicon.ico">
 
 </head>
 

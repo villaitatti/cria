@@ -24,6 +24,7 @@ echo auto_discovery_link_tags();
 ?>
   
 
+    
   <!-- Plugin Stuff -->
 
   <?php
@@ -63,7 +64,7 @@ echo head_js();
   ga('send', 'pageview');
 
 </script>
-    
+<link rel="icon" href="/themes/cria/images/favicon.ico">
 </head>
 
 <?php
