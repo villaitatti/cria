@@ -3,20 +3,20 @@
 <div class="exhibit-row-container">
 <div class="exhibit-single-page-container small-2 large-4 columns">
      <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-committee/call-to-action"><img src="/themes/cria/images/ted-w426.png"></a></div>
+     <div class="exhibit-bigger-image-div"><a href="the-committee/call-to-action"><img src="/themes/cria/images/gallery_thumbs/ted-w426.png"></a></div>
      <h2><b><a href="the-committee/call-to-action">Call to Action</a></b></h2>
  </div>
 <!-- Single page container Page: People -->
  <div class="exhibit-single-page-container small-2 large-4 columns">
 <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-committee/cast-of-characters"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!03.04.00349/pct:3,10,64,78/280,280/0/native.jpg"></a></div>
+     <div class="exhibit-bigger-image-div"><a href="the-committee/cast-of-characters"><img src="/themes/cria/images/gallery_thumbs/03.04.00349.jpg"></a></div>
      <!-- Two smaller images -->
      <div style="float:left;">
         <div style="margin-bottom: 4px;">
-     <a href="the-committee/cast-of-characters"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.19.00469/pct:25,10,64,84/138,138/0/native.jpg"></a>
+     <a href="the-committee/cast-of-characters"><img src="/themes/cria/images/gallery_thumbs/07.19.00469.jpg"></a>
         </div>
         <div> 
-     <a href="the-committee/cast-of-characters"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.18.00461/pct:4,10,93,66/138,138/0/native.jpg"></a>
+     <a href="the-committee/cast-of-characters"><img src="/themes/cria/images/gallery_thumbs/07.18.00461.jpg"></a>
         </div>
      </div>
      <div style="clear:both;"></div>
@@ -25,7 +25,7 @@
     
  <div class="exhibit-single-page-container small-2 large-4 columns">
 <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-committee/cria-in-numbers"><img src="/themes/cria/images/crianumbers-fulltext.png"></a></div>
+     <div class="exhibit-bigger-image-div"><a href="the-committee/cria-in-numbers"><img src="/themes/cria/images/gallery_thumbs/crianumbers-fulltext.png"></a></div>
      <h2><b><a href="the-committee/cria-in-numbers">CRIA in Numbers</a></b></h2>
  </div>
  <br style="clear: left;" />
@@ -45,7 +45,7 @@
 <!-- Single page container Page: People -->
  <div class="exhibit-single-page-container large-3 columns">
 <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-committee/role-of-i-tatti"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.15.00401/pct:7,5,62,85/334,334/0/native.jpg"></a></div>
+     <div class="exhibit-bigger-image-div"><a href="the-committee/role-of-i-tatti"><img src="/themes/cria/images/gallery_thumbs/07.15.00401.jpg"></a></div>
      
  </div>
 <div class="large-3 columns" style="padding-left:0;">
@@ -55,7 +55,7 @@
 <!-- Single page container Page: Cultural Heritage -->
 <div class="exhibit-single-page-container large-3 columns">
 <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-committee/the-archive"><img src="/themes/cria/images/thearchive.png"></a></div>
+     <div class="exhibit-bigger-image-div"><a href="the-committee/the-archive"><img src="/themes/cria/images/gallery_thumbs/thearchive.png"></a></div>
      
 </div>   
 <div class="large-3 columns" style="padding-left:0;">

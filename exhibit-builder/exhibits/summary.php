@@ -62,27 +62,27 @@ if ($pageTree):
 <div style="padding-top:1.54rem;margin-right: 0.9375rem;border-top:2px solid #f0f0f0;"><h1><b>All images</b></h1></div>
 <div class="exhibit-row-container">
  <div class="exhibit-single-image-4-pics-container large-3 columns" style="padding-right:0;">
-     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!04.08.00325/pct:0,12,100,75/!152,152/0/native.jpg"></a>
+     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/04.08.00325.jpg"></a>
      </div>
-     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.18.00457/pct:18,4,65,93/152,152/0/native.jpg"></a>
+     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/07.18.00457.jpg"></a>
      </div>
  </div>
 <div class="exhibit-single-image-4-pics-container large-3 columns" style="padding-right:0;">
-     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.17.00445/pct:0,4,65,93/152,152/0/native.jpg"></a>
+     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/07.17.00445.jpg"></a>
      </div>
-     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.15.00405/pct:16,4,65,93/152,152/0/native.jpg"></a>
-     </div>
- </div>
-    <div class="exhibit-single-image-4-pics-container large-3 columns" style="padding-right:0;">
-     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.20.00473/pct:13,4,70,93/152,152/0/native.jpg"></a>
-     </div>
-     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!07.18.00456/pct:13,3,65,93/152,152/0/native.jpg"></a>
+     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/07.15.00405.jpg"></a>
      </div>
  </div>
     <div class="exhibit-single-image-4-pics-container large-3 columns" style="padding-right:0;">
-     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!04.08.00330/pct:10,2,64,85/152,152/0/native.jpg"></a>
+     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/07.20.00473.jpg"></a>
      </div>
-     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.06.00056/pct:20,3,65,93/1520,1520/0/native.jpg"></a>
+     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/07.18.00456.jpg"></a>
+     </div>
+ </div>
+    <div class="exhibit-single-image-4-pics-container large-3 columns" style="padding-right:0;">
+     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/04.08.00330.jpg"></a>
+     </div>
+     <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/08.06.00056.jpg"></a>
      </div>
  </div>
  <br style="clear: left;" />
