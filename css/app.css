@@ -624,3 +624,7 @@ a[rel=tag] {
 .menu-current {
     border-bottom: 3px solid #de171c;
 }
+/* Hide iiif find button */
+.facet-by-metadata {
+    display: none;
+}

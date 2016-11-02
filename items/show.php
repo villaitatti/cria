@@ -25,9 +25,9 @@
         <?php if (metadata('item', 'Collection Name')): ?>
         <h4><?php echo link_to_collection_for_item(); ?></h4>
         <?php endif; ?>
-        <div class="back-item-button-div">
+        <!--<div class="back-item-button-div">
         <a onClick="history.go(-1);return true;" class="back-item-button">X</a>
-        </div>
+        </div>-->
         <br/>
         <br/>
         <br/>
