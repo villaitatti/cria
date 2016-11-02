@@ -172,7 +172,7 @@ sending professional help and materials
 
     <!-- Left Nav Section -->
     <ul class="left">
-      <li><a href="/#the-story">The Story</a></li>
+        <li><a href="/#the-story"><span class="menu-current">The</span> Story</a></li>
       <li><a href="/exhibits/show/the-committee">The Committee</a></li>
       <li><a href="/exhibits/show/the-rescue">The Rescue</a></li>
     </ul>

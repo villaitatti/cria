@@ -619,4 +619,6 @@ a[rel=tag] {
   }
 }
 
-
+.menu-current {
+    border-bottom: 3px solid #de171c;
+}
