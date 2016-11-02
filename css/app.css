@@ -567,6 +567,8 @@ a[rel=tag] {
         display: block;
     margin-left: auto;
     margin-right: auto;
+    max-height: 300px;
+
     
 }
   /* responsive CSS images tiles - https://css-tricks.com/seamless-responsive-photo-grid/ */

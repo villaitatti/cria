@@ -17,7 +17,7 @@ echo head(array('title'=>$pageTitle,'bodyclass' => 'items browse'));
 
 
 <?php foreach (loop('items') as $item): ?>
-<div class="item hentry large-3 columns" style="padding: 1rem 0; background:#F0F0F0; border: 3px solid white;">
+<div class="item hentry large-4 columns" style="padding: 1rem 0rem; background:#F0F0F0; border: 3px solid white;">
     
     <div class="item-meta">
     <?php if (metadata('item', 'has thumbnail')): ?>
@@ -56,6 +56,7 @@ else
 </div><!-- end class="item hentry" -->
 <?php endforeach; ?>
 <div>
+    <hr />
 <?php echo pagination_links(); ?>
 </div>
 <?php if ($total_results > 12): ?>
