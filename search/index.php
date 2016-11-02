@@ -7,10 +7,11 @@ $searchRecordTypes = get_search_record_types();
 <?php echo search_filters(); ?>
 <?php if ($total_results): ?>
 <?php echo pagination_links(); ?>
+<hr />
 <table id="search-results">
     <thead>
         <tr>
-            <th><?php echo __('Record Type');?></th>
+            <th><?php echo __('Image');?></th>
             <th><?php echo __('Title');?></th>
         </tr>
     </thead>
@@ -22,7 +23,9 @@ $searchRecordTypes = get_search_record_types();
         <?php set_current_record($recordType, $record); ?>
         <tr class="<?php echo strtolower($filter->filter($recordType)); ?>">
             <td>
-                <?php echo $searchRecordTypes[$recordType]; ?>
+                                <div class="item-img">
+        <?php echo link_to_item(item_image('square_thumbnail')); ?>
+    </div>
             </td>
             <?php
 
@@ -34,8 +37,14 @@ if(isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING']))
 
 
 
-        <td><a href="<?php echo $searchlink; ?>"><?php echo $searchText['title'] ? $searchText['title'] : '[Unknown]'; ?></a></td>
+        <td><a href="<?php echo $searchlink; ?>"><?php echo $searchText['title'] ? $searchText['title'] : '[Unknown]'; ?></a> <br />
+    <?php echo metadata('item', array('Dublin Core','Identifier')); ?>
+            
+            </td>
 
+        
+            
+            
 <?php
 }
 else
