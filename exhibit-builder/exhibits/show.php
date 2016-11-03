@@ -4,7 +4,7 @@ echo head(array(
     'bodyclass' => 'exhibits show'));
 ?>
 
-<h1 style="margin-top:3rem; font-weight:bold; text-transform: uppercase;"><span class="exhibit-page"><?php echo metadata('exhibit_page', 'title'); ?></h1>
+<h1 style="margin-top:3rem; font-weight:bold;"><span class="exhibit-page"><?php echo metadata('exhibit_page', 'title'); ?></h1>
 
 <div id="exhibit-blocks">
 <?php exhibit_builder_render_exhibit_page(); ?>
