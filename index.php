@@ -201,8 +201,8 @@ sending professional help and materials
 <p><a href="https://vimeo.com/186245220">CRIA appeal with  final CRIA credit CRIA MISC 1.09</a></p>
  
 <ul class="tabs" data-tab role="tablist" style="float:right;">
-  <li class="tab-title active" role="presentation"><a href="#panel2-1" role="tab" tabindex="0" aria-selected="true" aria-controls="panel2-1" style="color:#de171c;">EN</a></li>
-  <li class="tab-title" role="presentation"><a href="#panel2-2" role="tab" tabindex="0" aria-selected="false" aria-controls="panel2-2" style="color:#de171c;">IT</a></li>
+  <li class="tab-title active noselect" role="presentation"><a class="noselect" href="#panel2-1" role="tab" tabindex="0" aria-selected="true" aria-controls="panel2-1" style="color:#de171c;">EN</a></li>
+  <li class="tab-title" role="presentation"><a class="noselect" href="#panel2-2" role="tab" tabindex="0" aria-selected="false" aria-controls="panel2-2" style="color:#de171c;">IT</a></li>
 </ul>
 <div class="tabs-content">
   <section role="tabpanel" aria-hidden="false" class="content active" id="panel2-1">
