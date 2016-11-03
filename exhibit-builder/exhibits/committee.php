@@ -31,6 +31,14 @@
  <br style="clear: left;" />
 </div>
 
+</div>
+</div>
+	</div>
+<br/>
+<div class="headWrapper" style="background-color:#e6e6e3;">
+<!-- open up these divs to center the content from all pages, and set max width -->
+	<div class="row">
+		<div class="large-12 columns">
 
 
 
@@ -69,3 +77,11 @@
 <br/>
 
 <br/>
+</div>
+</div>
+	</div>
+
+<div class="headWrapper">
+<!-- open up these divs to center the content from all pages, and set max width -->
+	<div class="row">
+		<div class="large-12 columns">

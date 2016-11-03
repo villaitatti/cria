@@ -1,7 +1,7 @@
 
 <div>
 <br/>
-<h1><b>A city wounded</b></h1>
+<h1><b>A City Wounded</b></h1>
  <!-- First row container -->
 <div class="exhibit-row-container">
     <!-- Single page container Page: Destruction -->
@@ -56,6 +56,18 @@
 </div>
 </div>
 <br/>
+
+<!-- close and open main divs to change the background color -->
+</div>
+</div>
+	</div>
+<br/>
+<div class="headWrapper" style="background-color:#e6e6e3;">
+<!-- open up these divs to center the content from all pages, and set max width -->
+	<div class="row">
+		<div class="large-12 columns">
+
+<br/>
 <div><h1><b>CRIA's projects</b></h1></div>
 <div class="exhibit-row-container">
  <div class="exhibit-single-image-4-pics-container large-3 columns">
@@ -77,3 +89,13 @@
  <br style="clear: left;" />
 </div>
 <br/>
+            
+<!-- close and open main divs to change the background color -->
+</div>
+</div>
+	</div>
+<br/>
+<div class="headWrapper">
+<!-- open up these divs to center the content from all pages, and set max width -->
+	<div class="row">
+		<div class="large-12 columns">
