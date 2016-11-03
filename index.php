@@ -105,10 +105,10 @@ sending professional help and materials
    <img width="100%" src="themes/cria/images/cria-line.svg" alt="CRIA" ></div>
 
     <div class="the-story">
-    <h3 class="white" > A collection of documents, videos, and over 900 photographs illustrate the story of CRIA</h3>
+    A collection of documents, videos, and over 900 photographs illustrate the story of CRIA
     </div>
-    <div class="the-story">
-        <a  href="#the-story"><h1 class="white">the story<br /><b>v</b></h1></a>    
+    <div class="the-story-v" >
+        <a href="#the-story"><img src="themes/cria/images/home-v.svg" alt="CRIA"></a>    
         
     </div>
     
@@ -199,7 +199,7 @@ sending professional help and materials
   <div class="small-6 columns">
       <iframe src="https://player.vimeo.com/video/186245220?title=0&byline=0&portrait=0" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/186245220">CRIA appeal</a></p>
-              <h1 style="margin-top:3rem"><strong>THE FLOOD</strong></h1>
+              <h1 style="margin-top:3rem"><strong>The Flood</strong></h1>
       
 
 <p style="padding-top:2rem;">During the night of November 4, the levels of the river Arno began to rise swiftly and with little warning. The Arno flows through the very center of the city of Florence and in perilous proximity to many of its most significant monuments. The river was already swollen, and the surrounding area saturated, by heavy rains that autumn. The Uffizi, the Accademia, the national library and state archives, the Duomo and the Ponte Vecchio are among the countless artistic and cultural treasures concentrated within Florence’s historic center, and they all lay within the floodplain.</p>

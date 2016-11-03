@@ -12,7 +12,7 @@
   <ul class="title-area">
 
     <li class="name">
-      <h1><a href="/"><img  width="130px" src="/themes/cria/images/logo.svg" alt="CRIA">
+      <h1><a href="/"><img  width="100px" src="/themes/cria/images/logo.svg" alt="CRIA">
 		  </a></h1>
     </li>
      <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
@@ -24,9 +24,9 @@
     <ul class="right">
        <li><a href="#" class="search-icon"><i class="fi-magnifying-glass large icon"></i></a> </li>
          
-          <i class="fi-magnifying-glass"></i>
+         
           <a href="#" class="search-icon"><li class="search-field"></li></a>
-            <form id="search-form" action="/search" method="get">
+            <form  id="search-form" action="/search" method="get">
               <div class="row collapse">
                 <div class="small-12 columns">
                   <input type="text" name="query" id="query" class="dream-search" placeholder="Search">

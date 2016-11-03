@@ -99,7 +99,11 @@ body.items h1, body.collections h1 {
 	font-size: 1.375em; }
 
 
-
+body {
+    
+    background-color: #f0f0f0;
+    
+}
 
 /* -----------------------------------------
 Homepage pre-loader
@@ -132,26 +136,33 @@ Photos to rotate on homapage
   position: relative;
     top: 50%;
   left: 50%;
-width: 35rem;
+width: 30rem;
   color: #fff;
   transform: translate(-50%, -50%);
-text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 font-weight: 500;
 }
 
 .justified-home {
       text-align: justify;
       font-size: 1.3rem;
-  letter-spacing: 3px;
+  letter-spacing: 1px;
   color: #fff;
 
 }
 
 .the-story{
+  color: #fff;
+  text-align: center;
+width: 100%;
+font-weight: 500;
+          font-size: 1.3rem;
+  letter-spacing: 1px;
+}
 
-      color: #fff;
-    text-align: center;
-    width: 100%;
+.the-story-v {
+      text-align: center;
+    padding: 3rem;
 }
 
 
@@ -203,8 +214,8 @@ body#home .headWrapper{
 }
 
  .top-bar-section li:not(.has-form) a:not(.button), .top-bar-section ul li {
-background-color: #F0F0F0 !important;
-font-size: 1.7125rem;
+background-color: #e6e6e3 !important;
+font-size: 1.3rem;
 color: #0F0F0F !important;
      padding: 0 1rem;
          position: relative;
@@ -217,13 +228,13 @@ nav.top-bar{
 
 .top-bar {
     padding:1rem !important;
-    background-color: #F0F0F0 !important;
+    background-color: #e6e6e3 !important;
     height: 3.5rem !important;
     
 }
 .header-menu {
 
-    background-color: #F0F0F0 !important;
+    background-color: #e6e6e3 !important;
     height: 5rem !important;
 }
 
@@ -268,6 +279,7 @@ border: none;
 overflow: hidden; 
 width:100%;
 display: inline-block;
+border:none; 
 }
 
 
@@ -368,7 +380,7 @@ Footer
 ----------------------------------------- */
 
 #footer {
-	background: #f0f0f0;
+	background: #e6e6e3;
 	width: 100%;
 }
 
