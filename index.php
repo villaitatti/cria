@@ -198,7 +198,7 @@ sending professional help and materials
               <div class="small-3 columns">&nbsp;</div>
   <div class="small-6 columns">
       <iframe src="https://player.vimeo.com/video/186245220?title=0&byline=0&portrait=0" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/186245220">CRIA appeal</a></p>
+<p><a href="https://vimeo.com/186245220">CRIA appeal with  final CRIA credit CRIA MISC 1.09</a></p>
  
 <ul class="tabs" data-tab role="tablist" style="float:right;">
   <li class="tab-title active" role="presentation"><a href="#panel2-1" role="tab" tabindex="0" aria-selected="true" aria-controls="panel2-1" style="color:#de171c;">EN</a></li>
@@ -225,7 +225,7 @@ sending professional help and materials
 <h1><strong>Committee to Rescue Italian Art (CRIA)</strong></h1>
       
       <iframe src="https://player.vimeo.com/video/187955288?title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/187955288">Ted Kennedy CRIA appeal</a></p>
+<p><a href="https://vimeo.com/187955288">CRIA  appeal by Edward Kennedy CRIA MISC 1.02b</a></p>
       
 
       
