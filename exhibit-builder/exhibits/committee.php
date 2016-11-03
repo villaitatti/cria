@@ -30,7 +30,7 @@
  </div>
  <br style="clear: left;" />
 </div>
-
+<!-- close and open main divs to change the background color -->
 </div>
 </div>
 	</div>

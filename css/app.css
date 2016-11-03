@@ -638,3 +638,6 @@ a[rel=tag] {
 .facet-by-metadata {
     display: none;
 }
+.tabs dd.active > a, .tabs .tab-title.active > a {
+    background-color: #e6e6e3;
+}

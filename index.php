@@ -199,7 +199,14 @@ sending professional help and materials
   <div class="small-6 columns">
       <iframe src="https://player.vimeo.com/video/186245220?title=0&byline=0&portrait=0" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/186245220">CRIA appeal</a></p>
-              <h1 style="margin-top:3rem"><strong>The Flood</strong></h1>
+ 
+<ul class="tabs" data-tab role="tablist" style="float:right;">
+  <li class="tab-title active" role="presentation"><a href="#panel2-1" role="tab" tabindex="0" aria-selected="true" aria-controls="panel2-1" style="color:#de171c;">EN</a></li>
+  <li class="tab-title" role="presentation"><a href="#panel2-2" role="tab" tabindex="0" aria-selected="false" aria-controls="panel2-2" style="color:#de171c;">IT</a></li>
+</ul>
+<div class="tabs-content">
+  <section role="tabpanel" aria-hidden="false" class="content active" id="panel2-1">
+            <h1 style="margin-top:3rem"><strong>The Flood</strong></h1>
       
 
 <p style="padding-top:2rem;">During the night of November 4, the levels of the river Arno began to rise swiftly and with little warning. The Arno flows through the very center of the city of Florence and in perilous proximity to many of its most significant monuments. The river was already swollen, and the surrounding area saturated, by heavy rains that autumn. The Uffizi, the Accademia, the national library and state archives, the Duomo and the Ponte Vecchio are among the countless artistic and cultural treasures concentrated within Florence’s historic center, and they all lay within the floodplain.</p>
@@ -227,6 +234,21 @@ sending professional help and materials
 <p>The money CRIA raised went to support a wide variety of initiatives in Italy.   In Florence CRIA’s activities were coordinated by an administrative office housed in Palazzo Pitti, and by Villa I Tatti, the Harvard University Center for Italian Renaissance Studies, the most important American cultural institution in the city, whose Director, historian Myron Gilmore, was on the advisory committee.  CRIA purchased and shipped conservation equipment and supplies.  It assembled teams of conservators and other specialists to send to Florence and Venice and paid their travel and living expenses.  The advisory committee selected damaged monuments, museums, and works of art and allocated funds for their restoration.  CRIA financed fellowships for students of restoration and for young scholars to assist with the recovery efforts onsite.  It helped establish new centers for study and restoration – one at the Palazzo Davanzati, another at the National Library, and a third, in Venice, at San Gregorio.</p>
 <p>After some years, once steady progress was being made on the restorations and the situations in both Florence and Venice had returned to normal, CRIA’s original purposes had largely been achieved.  Consequently, the executive office in New York closed in 1971, followed in the spring of 1973 by the Florentine administrative office.  In its short lifetime, the Committee to Rescue Italian Art made a crucial contribution to the efforts to salvage and restore the cultural heritage of Florence and Venice, one whose significance has only recently started to come to light.  </p>
 <p>&nbsp;</p>
+  </section>
+  <section role="tabpanel" aria-hidden="true" class="content" id="panel2-2">
+    <p>Traduzione in corso</p>
+  </section>
+</div>      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
 
       
                   
@@ -260,7 +282,11 @@ sending professional help and materials
       
     
 			</script>
-            
+ <script>
+  $('#myTabs').on('toggled', function (event, tab) {
+    console.log(tab);
+  });
+</script>           
             
 <style>
     #header {background-image: none !important;}
