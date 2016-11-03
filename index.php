@@ -236,7 +236,50 @@ sending professional help and materials
 <p>&nbsp;</p>
   </section>
   <section role="tabpanel" aria-hidden="true" class="content" id="panel2-2">
-    <p>Traduzione in corso</p>
+   
+      <h1 style="margin-top:3rem"><strong>L'alluvione</strong></h1>
+      
+
+<p style="padding-top:2rem;">
+    Durante la notte del 4 novembre il livello del fiume Arno iniziò a crescere rapidamente e senza preavviso. L’Arno scorre proprio attraverso il centro di Firenze, in pericolosa prossimità rispetto a molti dei più importanti monumenti. Il fiume era già gonfio e la terra satura dalla pioggia caduta lungamente durante l’autunno. Gli Uffizi, l’Accademia, la Biblioteca Nazionale e l’Archivio di Stato, il Duomo e Ponte Vecchio, inestimabili  tesori artistici e culturali  concentrati nel centro storico fiorentino, si trovano tutti entro la piana alluvionale.</p>
+
+      <p>La pioggia intensa nel pomeriggio del 3 novembre continuò fino alle prime ore del giorno successivo e il livello del fiume crebbe di sei metri in sei ore. A Firenze l’arno superò subito i suoi argini. Il picco fu raggiunto dopo l’alba del 4 novembre e non dette segno di recedere fino alla sera. In breve il centro storico e le zone limitrofe al fiume furono inondate. Migliaia di fiorentini furono costretti ad abbandonare le loro case e cercare rifugio nei piani alti degli edifici o perfino sui tetti. I vigili del fuoco e l’esercito risposero a migliaia di chiamate di persone minacciate dall’acqua alta. Ventinove furono i morti.</p>
+
+      <p>L’alluvione, la più imponente che mai avesse colpito Firenze, spazzò via tutto ciò che trovò sulla propria strada. Il carburante fuoriuscito dall’esplosione dei depositi formò una sottile pellicola sulla superficie dell’acqua, che macchiò le pareti di case e monumenti e vi rimase anche quando il fiume rientrò nei suoi argini. Prima che questo avvenisse il cuore storico della città e molti dintorni erano rimasti sott’acqua per più di un giorno intero.</p>
+
+<p>Ovunque l’alluvione era giunta c’erano ora detriti e fango. La chiesa di Santa Croce  era stata sommersa da tre metri di acqua e moltissime opere d’arte, compreso il Crocifisso di Cimabue, erano state irreparabilmente danneggiate. Migliaia di dipinti e oggetti d’arte conservati in musei, chiese e collezioni private del centro storico erano state distrutte. 
+    L’ondata aveva avuto un’incredibile forza distruttiva:</p>
+    
+    <p style="padding: 0 3rem"> 
+        “I danni erano dovuti non solo all’immersione in acqua, ma al fatto che l’inondazione colpiva la città ad una velocità di 50 miglia l’ora, devastando gli oggetti e trasformandoli in proiettili che venivano scagliati contro gli altari, scheggiandoli e mandandoli in pezzi. </p>
+
+      <p>I depositi della Biblioteca Nazionale di Firenze furono completamente inondati e milioni di volumi e rare prime edizioni rischiarono di andare perdute per sempre. E uguale sorte  ebbero gli innumerevoli manoscritti del vicino Archivio di Stato.</p> 
+
+      <p>Nelle ore successive all’inondazione, quando l’entità dei danni iniziò a farsi manifesta, si assistette ad un’ingente manifestazione di solidarietà in tutto il mondo. Comitati nazionali e internazionali nacquero in molti paesi con il proposito di salvare le opere d’arte e in molte città italiane ebbe inizio un’intensa raccolta di fondi e di beni di prima necessità. </p>
+      
+      
+
+
+      <h1><strong>Committee to Rescue Italian Art (CRIA)</strong></h1>
+      
+      <iframe src="https://player.vimeo.com/video/187955288?title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/187955288">CRIA  appeal by Edward Kennedy CRIA MISC 1.02b</a></p>
+      
+
+      
+<p style="padding-top:2rem">
+    Non appena la notizia dell’alluvione giunse negli Stati Uniti, alcuni studiosi della cultura italiana si mobilitarono immediatamente, preoccupati di salvare il prezioso patrimonio artistico di Firenze e delle altre città, soprattutto Venezia, devastate dalle acque. </p>
+      <p>
+          Al seguito di Fred Licht e di Bates Lowry, entrambi professori di storia dell’arte  presso la Brown University, della moglie di Licht, Meg, anch’essa storica dell’arte, un gruppo di  eminenti studiosi, curatori di musei e restauratori si unì per dar vita al Comitato per il Recupero dell’Arte Italiana (CRIA: Committee to Rescue Italian Art). Lo scopo del gruppo era quello di raccogliere denaro per finanziare le operazioni di recupero, intendendo sia l’emergenza che l’assistenza a lungo termine che l’immane compito di restauro avrebbe comportato.  Al recupero e restauro di opere d’arte e monumenti, il comitato presto aggiunse anche i libri e i manoscritti conservati in biblioteche e archivi.</p>
+
+      <p>Entro una settimana dall’alluvione, CRIA era già funzionante nell’intero paese, e si era assicurato importanti risorse per la propria attività. Sotto la presidenza onoraria di Jacqueline Kennedy, vedova del defunto presidente John F. Kennedy, CRIA  arrivò a contare oltre 200 membri o affiliati sparsi per tutti gli Stati Uniti, compresi i membri del comitato scientifico, del comitato esecutivo e amministrativo, i consiglieri, e decine di rappresentanti dei comitati locali, da una costa all’altra.  Il comitato si prefiggeva di raccogliere la somma di due milioni e mezzo di dollari: pressappoco l’equivalente odierno di venti milioni di dollari.</p>
+      <p>Il denaro veniva raccolto attraverso richieste per posta, pubblicità, mostre d’arte italiana, sfilate di moda, ricevimenti, appelli video fatti da personaggi celebri, come Ted Kennedy o Elizabeth Taylor, nonché attraverso la proiezione del documentario di Franco Zeffirelli, Days of Destruction, del quale CRIA deteneva i diritti esclusivi di distribuzione negli Stati Uniti. La risposta del pubblico americano e delle istituzioni fu entusiasta e generosa: CRIA arrivò molto vicino a raggiungere il proprio obiettivo finanziario.</p>
+<p>
+    Il denaro che CRIA raccolse andò a sostegno di una grande varietà di iniziative in Italia.A Firenze le attività di CRIA furono coordinate da un ufficio amministrativo con sede a Palazzo Pitti, e poi da Villa I Tatti, the Harvard University Center for Italian Renaissance Studies, la più importante istituzione americana con sede in città, il cui direttore, lo storico Myron Gilmore, sedeva nel comitato scientifico. Dagli Stati Uniti CRIA acquistò e spedì attrezzatura e materiali per il restauro. Riunì gruppi di restauratori e altri specialisti e li inviò a proprie spese a Firenze e Venezia. Il comitato scientifico selezionò monumenti, musei, opere d’arte destinando fondi per il loro restauro. Il comitato finanziò poi borse di studio per studenti di scuole di restauro e per giovani studiosi che seguissero sul posto le operazioni di recupero. Infine contribuì alla creazione di nuovi centri per lo studio del restauro: uno a Palazzo Davanzati, un altro presso la Biblioteca Nazionale e un terzo a Venezia, presso San Gregorio.   </p> 
+
+      <p>Alcuni anni dopo, con i molti progressi nei restauri e con una situazione, sia a Firenze che a Venezia, tornata alla normalità, gli obiettivi originari di CRIA si poterono considerare largamente raggiunti. L’ufficio esecutivo di New York fu chiuso nel 1971 e nella primavera del 1973 anche quello amministrativo di Firenze. Nella sua breve vita il CRIA aveva dato un contributo cruciale all’opera di salvataggio e restauro del patrimonio culturale di Firenze e Venezia, il cui significato solo di recente ha iniziato a venire alla luce. </p>
+
+      
   </section>
 </div>      
       
