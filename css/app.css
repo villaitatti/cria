@@ -505,7 +505,7 @@ a[rel=tag] {
   border-width: 0;
   cursor: pointer;
   /*font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;*/
-  font-weight: bold;
+
   line-height: normal;
   margin: 0 0 1.25rem;
   position: relative;
@@ -513,15 +513,13 @@ a[rel=tag] {
   text-decoration: none;
   display: inline-block;
   padding: 0.4rem 1rem 0.4rem 1rem;
-  font-size: 1rem;
-  background-color: #de171c; /*old #008CBA */
-  /*border-color: #007095;*/
-  border-bottom: 1px solid #1e1e1e;
-  color: #FFFFFF;
+  font-size: 1.25rem;
+
+
   transition: background-color 300ms ease-out; }
 .previous-page:hover, .previous-page:focus, .next-page:hover, .next-page:focus {
-    background-color: #940016; /* old #007095 */
-    color: #FFFFFF; }
+
+    color: #000; }
 #photos {
   /* Prevent vertical gaps */
   line-height: 0;
