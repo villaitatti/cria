@@ -105,7 +105,7 @@ sending professional help and materials
    <img width="100%" src="themes/cria/images/cria-line.svg" alt="CRIA" ></div>
 
     <div class="the-story">
-    A collection of documents, videos, and over 900 photographs illustrate the story of CRIA
+    A collection of documents, videos, and over 900 photographs illustrate the story of CRIA after the flood of 1966
     </div>
     <div class="the-story-v" >
         <a href="#the-story"><img src="themes/cria/images/home-v.svg" alt="CRIA"></a>    
@@ -241,7 +241,7 @@ sending professional help and materials
       
 
 <p style="padding-top:2rem;">
-    Durante la notte del 4 novembre il livello del fiume Arno iniziò a crescere rapidamente e senza preavviso. L’Arno scorre proprio attraverso il centro di Firenze, in pericolosa prossimità rispetto a molti dei più importanti monumenti. Il fiume era già gonfio e la terra satura dalla pioggia caduta lungamente durante l’autunno. Gli Uffizi, l’Accademia, la Biblioteca Nazionale e l’Archivio di Stato, il Duomo e Ponte Vecchio, inestimabili  tesori artistici e culturali  concentrati nel centro storico fiorentino, si trovano tutti entro la piana alluvionale.</p>
+    Durante la notte del 4 novembre 1966, il livello del fiume Arno iniziò a crescere rapidamente e senza preavviso. L’Arno scorre proprio attraverso il centro di Firenze, in pericolosa prossimità rispetto a molti dei più importanti monumenti. Il fiume era già gonfio e la terra satura dalla pioggia caduta lungamente durante l’autunno. Gli Uffizi, l’Accademia, la Biblioteca Nazionale e l’Archivio di Stato, il Duomo e Ponte Vecchio, inestimabili  tesori artistici e culturali  concentrati nel centro storico fiorentino, si trovano tutti entro la piana alluvionale.</p>
 
       <p>La pioggia intensa nel pomeriggio del 3 novembre continuò fino alle prime ore del giorno successivo e il livello del fiume crebbe di sei metri in sei ore. A Firenze l’arno superò subito i suoi argini. Il picco fu raggiunto dopo l’alba del 4 novembre e non dette segno di recedere fino alla sera. In breve il centro storico e le zone limitrofe al fiume furono inondate. Migliaia di fiorentini furono costretti ad abbandonare le loro case e cercare rifugio nei piani alti degli edifici o perfino sui tetti. I vigili del fuoco e l’esercito risposero a migliaia di chiamate di persone minacciate dall’acqua alta. Ventinove furono i morti.</p>
 
