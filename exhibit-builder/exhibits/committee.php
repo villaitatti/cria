@@ -16,7 +16,7 @@
      <a href="the-committee/cast-of-characters"><img src="/themes/cria/images/gallery_thumbs/07.19.00469.jpg"></a>
         </div>
         <div> 
-     <a href="the-committee/cast-of-characters"><img src="/themes/cria/images/gallery_thumbs/07.18.00461.jpg"></a>
+     <a href="the-committee/cast-of-characters"><img src="/themes/cria/images/gallery_thumbs/07.18.png"></a>
         </div>
      </div>
      <div style="clear:both;"></div>
