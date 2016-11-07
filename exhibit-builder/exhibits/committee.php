@@ -1,17 +1,17 @@
 <br/>
 <br/>
 <div class="exhibit-row-container">
-<div class="exhibit-single-page-container small-2 large-4 columns">
+<div class="exhibit-single-page-container small-6 large-4 columns">
      <!-- Bigger image -->
      <div class="exhibit-bigger-image-div"><a href="the-committee/call-to-action"><img src="/themes/cria/images/gallery_thumbs/ted-w426.png"></a></div>
      <h2><b><a href="the-committee/call-to-action">Call to Action</a></b></h2>
  </div>
 <!-- Single page container Page: People -->
- <div class="exhibit-single-page-container small-2 large-4 columns">
+ <div class="exhibit-single-page-container small-6 large-4 columns">
 <!-- Bigger image -->
-     <div class="exhibit-bigger-image-div"><a href="the-committee/cast-of-characters"><img src="/themes/cria/images/gallery_thumbs/03.04.00349.jpg"></a></div>
+     <div class="exhibit-bigger-image-div small-8"><a href="the-committee/cast-of-characters"><img src="/themes/cria/images/gallery_thumbs/03.04.00349.jpg"></a></div>
      <!-- Two smaller images -->
-     <div style="float:left;">
+     <div style="float:left;" class="small-3">
         <div style="margin-bottom: 4px;">
      <a href="the-committee/cast-of-characters"><img src="/themes/cria/images/gallery_thumbs/07.19.00469.jpg"></a>
         </div>
@@ -23,7 +23,7 @@
      <h2><b><a href="the-committee/cast-of-characters">Cast of Characters</a></b></h2>
  </div>
     
- <div class="exhibit-single-page-container small-2 large-4 columns">
+ <div class="exhibit-single-page-container small-6 large-4 columns">
 <!-- Bigger image -->
      <div class="exhibit-bigger-image-div"><a href="the-committee/cria-in-numbers"><img src="/themes/cria/images/gallery_thumbs/crianumbers-fulltext.png"></a></div>
      <h2><b><a href="the-committee/cria-in-numbers">CRIA in Numbers</a></b></h2>

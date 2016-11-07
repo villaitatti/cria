@@ -61,25 +61,25 @@ if ($pageTree):
 <!-- All images section -->
 <div style="padding-top:1.54rem;margin-right: 0.9375rem;border-top:2px solid #f0f0f0;"><h1><b>All images</b></h1></div>
 <div class="exhibit-row-container">
- <div class="exhibit-single-image-4-pics-container large-3 columns" style="padding-right:0;">
+ <div class="exhibit-single-image-4-pics-container small-3 large-3 columns" style="padding-right:0;">
      <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/04.08.00325.jpg"></a>
      </div>
      <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/07.18.00457.jpg"></a>
      </div>
  </div>
-<div class="exhibit-single-image-4-pics-container large-3 columns" style="padding-right:0;">
+<div class="exhibit-single-image-4-pics-container small-3 large-3 columns" style="padding-right:0;">
      <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/07.17.00445.jpg"></a>
      </div>
      <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/07.15.00405.jpg"></a>
      </div>
  </div>
-    <div class="exhibit-single-image-4-pics-container large-3 columns" style="padding-right:0;">
+    <div class="exhibit-single-image-4-pics-container small-3 large-3 columns" style="padding-right:0;">
      <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/07.20.00473.jpg"></a>
      </div>
      <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/07.18.00456.jpg"></a>
      </div>
  </div>
-    <div class="exhibit-single-image-4-pics-container large-3 columns" style="padding-right:0;">
+    <div class="exhibit-single-image-4-pics-container small-3 large-3 columns" style="padding-right:0;">
      <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/04.08.00330.jpg"></a>
      </div>
      <div class="large-6 columns" style="padding-left:0;"><a class="th" href="/items/browse"><img src="/themes/cria/images/gallery_thumbs/08.06.00056.jpg"></a>

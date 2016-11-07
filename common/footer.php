@@ -5,7 +5,7 @@
     <div id="footer">
         <div class="row">			
 
-            <div class="footer-menu large-2 columns">
+            <div class="footer-menu small-2 large-2 columns">
             <?php // echo public_nav_main(); ?>			
                 <div class="">
                     <h6>PAGES </h6>
@@ -19,7 +19,7 @@
                     </div>
                 </div>			
             </div>
-            <div class="footer-menu large-4 columns">
+            <div class="footer-menu small-7 large-7 columns">
             <?php // echo public_nav_main(); ?>			
                 <div>
                     <h6>REFERENCES</h6>
@@ -29,7 +29,7 @@
 </p>
                 </div>			
             </div>
-            <div class="footer-menu large-3 columns">
+            <div class="footer-menu small-3 large-3 columns">
             <?php // echo public_nav_main(); ?>			
                 <div>
 
