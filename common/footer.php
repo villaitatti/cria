@@ -33,7 +33,7 @@
             <?php // echo public_nav_main(); ?>			
                 <div>
 
-                    <img style="margin-top:2rem;" src="/themes/cria/images/logo-itatti.png" alt="Villa I Tatti">
+                    <a href="http://itatti.harvard.edu" target="_blank"> <img style="margin-top:2rem;" src="/themes/cria/images/logo-itatti.png" alt="Villa I Tatti"></a>
                     <div style="font-size:0.8rem;">©&nbsp;2016 The President and Fellows of Harvard College</div>
                 </div>			
             </div>            
