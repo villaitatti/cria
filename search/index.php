@@ -24,7 +24,7 @@ $searchRecordTypes = get_search_record_types();
         <tr class="<?php echo strtolower($filter->filter($recordType)); ?>">
             <td>
                                 <div class="item-img">
-        <?php echo link_to_item(item_image('square_thumbnail')); ?>
+        <?php //echo link_to_item(item_image('square_thumbnail')); ?>
     </div>
             </td>
             <?php
