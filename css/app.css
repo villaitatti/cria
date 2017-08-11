@@ -132,25 +132,22 @@ Photos to rotate on homapage
     color: white;
 }
 
+#home-text {
+	position: relative;
+    	top: 50%;
+  	left: 50%;
+	width: 30rem;
+  	color: #fff;
+  	transform: translate(-50%, -50%);
+	font-weight: 500;
+}
+
 @media screen 
   and (min-device-width: 768px) 
   and (max-device-width: 1440px) {
 	#home-text {
     		top: 60%;
 	}
-}
-
-
-
-#home-text {
-  position: relative;
-    top: 50%;
-  left: 50%;
-width: 30rem;
-  color: #fff;
-  transform: translate(-50%, -50%);
-
-font-weight: 500;
 }
 
 .justified-home {
