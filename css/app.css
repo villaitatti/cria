@@ -132,6 +132,14 @@ Photos to rotate on homapage
     color: white;
 }
 
+@media (min-width: 768px) and (max-width: 1440px) {
+	#home-text {
+    		top: 60%;
+	}
+}
+
+
+
 #home-text {
   position: relative;
     top: 50%;
