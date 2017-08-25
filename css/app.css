@@ -142,14 +142,6 @@ Photos to rotate on homapage
 	font-weight: 500;
 }
 
-@media screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1440px) {
-	#home-text {
-    		top: 60%;
-	}
-}
-
 .justified-home {
       text-align: justify;
       font-size: 1.3rem;
@@ -172,6 +164,20 @@ font-weight: 500;
     padding: 3rem;
 }
 
+@media screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1440px) {
+	#home-text {
+    		top: 70%;
+	}
+	
+	.justified-home {
+      		font-size: 1.3rem;
+	} 	  
+	.the-story{
+          	font-size: 1rem;
+	 }
+}
 
 #header {
     
