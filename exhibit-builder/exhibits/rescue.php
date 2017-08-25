@@ -9,7 +9,7 @@
      <!-- Bigger image -->
      <div class="exhibit-bigger-image-div"><a href="the-rescue/destruction"><img src="/themes/cria/images/gallery_thumbs/07.12.00348.jpg"></a></div>
      <!-- Two smaller images -->
-     <div style="float:left;" class="small-3">
+     <div style="float:left;" class="images-laptop">
         <div style="margin-bottom: 4px;">
      <a href="the-rescue/destruction"><img src="/themes/cria/images/gallery_thumbs/07.11.00331.jpg"></a>
         </div>
@@ -25,7 +25,7 @@
      <!-- Bigger image -->
      <div class="exhibit-bigger-image-div"><a href="the-rescue/people"><img src="/themes/cria/images/gallery_thumbs/07.09.00293.jpg"></a></div>
      <!-- Two smaller images -->
-     <div style="float:left;" class="small-3">
+     <div style="float:left;" class="images-laptop">
         <div style="margin-bottom: 4px;">
      <a href="the-rescue/people"><img src="/themes/cria/images/gallery_thumbs/04.08.00325-2.jpg"></a>
         </div>
@@ -41,8 +41,8 @@
      <!-- Bigger image -->
      <div class="exhibit-bigger-image-div"><a href="the-rescue/cultural-heritage"><img src="/themes/cria/images/gallery_thumbs/09.26.00322.jpg"></a></div>
      <!-- Two smaller images -->
-     <div style="float:left;">
-        <div style="margin-bottom: 4px;" class="small-3">
+     <div style="float:left;" class="images-laptop">
+        <div style="margin-bottom: 4px;">
      <a href="the-rescue/cultural-heritage"><img src="/themes/cria/images/gallery_thumbs/08.06.00055.jpg"></a>
         </div>
         <div> 
