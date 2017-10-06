@@ -60,7 +60,7 @@
     }
     // Call to Action
     if (pathname === "/exhibits/show/the-committee/call-to-action") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!01.23.00325/pct:0,37,100,50/full/0/native.jpg)');
+        $('#header').css('background-image','url(https://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!01.23.00325/pct:0,37,100,50/full/0/native.jpg)');
         $('a[href*="/exhibits/show/the-committee"] span').addClass('menu-current');
     }
     // Cast of Characters
@@ -110,7 +110,7 @@
     }
     // Painting
     if (pathname === "/exhibits/show/the-rescue/painting") {
-        $('#header').css('background-image','url(http://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.23.00316bis/pct:3,8,90,45/full/0/native.jpg)');
+        $('#header').css('background-image','url(https://iiif.itatti.harvard.edu/Scaler/IIIF/CRIA!08.23.00316bis/pct:3,8,90,45/full/0/native.jpg)');
         $('a[href*="/exhibits/show/the-rescue"] span').addClass('menu-current');
     }
     // Wood & Sculpture
